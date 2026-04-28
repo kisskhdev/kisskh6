@@ -1,0 +1,8780 @@
+1
+00:00:02,000 --> 00:00:07,000
+
+2
+00:00:08,000 --> 00:00:13,000
+
+3
+00:01:36,166 --> 00:01:38,041
+{\an8}ADVANCED PROGRAMMING
+
+4
+00:02:19,791 --> 00:02:22,458
+How late did he stay up working yesterday?
+
+5
+00:02:22,541 --> 00:02:24,875
+Past midnight, I guess. Let him sleep.
+
+6
+00:02:31,250 --> 00:02:34,000
+{\an8}GOOD MORNING
+
+7
+00:02:34,083 --> 00:02:35,250
+{\an8}JIAJIA
+
+8
+00:02:36,708 --> 00:02:37,958
+{\an8}Daddy, get up.
+
+9
+00:02:38,041 --> 00:02:39,000
+It's seven o'clock.
+
+10
+00:02:58,583 --> 00:03:00,500
+{\an8}- Back from your walk?
+- Yeah.
+
+11
+00:03:00,583 --> 00:03:02,291
+{\an8}- Come eat.
+- Okay.
+
+12
+00:03:05,250 --> 00:03:06,166
+Let's eat.
+
+13
+00:03:08,541 --> 00:03:09,541
+Zhilei.
+
+14
+00:03:10,166 --> 00:03:12,916
+Remember Uncle Qin from my old shipyard?
+
+15
+00:03:13,000 --> 00:03:15,000
+How's his son's job coming along?
+
+16
+00:03:15,083 --> 00:03:17,208
+I've already got him an interview.
+
+17
+00:03:18,541 --> 00:03:21,583
+Isn't that Wang Haoyu?
+He's selling crabs now?
+
+18
+00:03:21,666 --> 00:03:22,833
+He got fired.
+
+19
+00:03:23,458 --> 00:03:25,041
+Wasn't he a core member in R&D?
+
+20
+00:03:25,125 --> 00:03:28,000
+Your husband is
+the only one core member in R&D.
+
+21
+00:03:30,583 --> 00:03:32,958
+The store is out of soybean oil.
+
+22
+00:03:33,041 --> 00:03:34,958
+I need to go to the wholesaler.
+
+23
+00:03:35,041 --> 00:03:36,208
+Mineral water too.
+
+24
+00:03:36,291 --> 00:03:37,875
+Tell them to deliver more.
+
+25
+00:03:39,333 --> 00:03:41,250
+You can't rely on insulin shots.
+
+26
+00:03:41,333 --> 00:03:42,625
+You need to exercise.
+
+27
+00:03:42,708 --> 00:03:44,750
+How do I find the time?
+
+28
+00:03:44,833 --> 00:03:47,666
+It's parents' meeting next week.
+Don't forget.
+
+29
+00:03:47,750 --> 00:03:48,750
+Okay.
+
+30
+00:03:48,833 --> 00:03:49,916
+Liu Yunong got in.
+
+31
+00:03:50,000 --> 00:03:52,000
+How's your English reciting?
+
+32
+00:03:58,958 --> 00:04:00,541
+We're leaving now.
+
+33
+00:04:00,625 --> 00:04:01,916
+- Bye.
+- Bye, Pa.
+
+34
+00:04:02,000 --> 00:04:04,166
+- Bye.
+- Bye, Dad.
+
+35
+00:04:05,208 --> 00:04:06,166
+I'm leaving.
+
+36
+00:04:06,791 --> 00:04:08,291
+{\an8}- What's this?
+- For your health.
+
+37
+00:04:08,375 --> 00:04:10,500
+{\an8}Chinese medicinal drink.
+Will it make my nose bleed?
+
+38
+00:04:10,583 --> 00:04:11,541
+Keep dreaming.
+
+39
+00:04:11,625 --> 00:04:13,416
+You think you're in your 20s?
+
+40
+00:04:13,500 --> 00:04:16,166
+Don't just drink it.
+Chew on the ginseng too.
+
+41
+00:05:02,166 --> 00:05:03,708
+Wait.
+
+42
+00:05:03,791 --> 00:05:05,083
+Thank you.
+
+43
+00:05:06,500 --> 00:05:08,333
+Slow down, easy.
+
+44
+00:05:09,291 --> 00:05:12,166
+<i>You're late.</i>
+<i>Please deliver the order ASAP.</i>
+
+45
+00:05:13,250 --> 00:05:14,500
+<i>Check-in successful.</i>
+
+46
+00:05:15,541 --> 00:05:16,875
+{\an8}<i>Check-in successful.</i>
+
+47
+00:05:17,458 --> 00:05:19,333
+<i>Check-in successful…</i>
+
+48
+00:05:21,250 --> 00:05:22,375
+Morning, sir.
+
+49
+00:05:23,583 --> 00:05:24,541
+FOODIE DELIVERY
+
+50
+00:05:27,875 --> 00:05:30,750
+Closed beta is the third day
+of next month.
+
+51
+00:05:32,416 --> 00:05:34,708
+The scheduled test has been advanced.
+
+52
+00:05:34,791 --> 00:05:35,916
+Other teams work hard too.
+
+53
+00:05:36,000 --> 00:05:37,250
+We must work harder.
+
+54
+00:05:39,875 --> 00:05:42,583
+How can you lose such an important update?
+
+55
+00:05:43,083 --> 00:05:46,208
+I forgot to change the date
+and deleted it by mistake.
+
+56
+00:05:47,000 --> 00:05:49,791
+Don't tell people you did this.
+Blame it on me.
+
+57
+00:05:49,875 --> 00:05:51,583
+What will you do?
+
+58
+00:05:51,666 --> 00:05:53,625
+What else? Redo it for you.
+
+59
+00:05:54,333 --> 00:05:55,291
+Thanks, boss.
+
+60
+00:05:56,375 --> 00:05:57,291
+Boss.
+
+61
+00:05:57,958 --> 00:05:58,916
+Cigarette break?
+
+62
+00:06:02,041 --> 00:06:05,625
+Is there still a market
+for the app we're developing?
+
+63
+00:06:05,708 --> 00:06:06,916
+There certainly is.
+
+64
+00:06:07,000 --> 00:06:08,833
+But development costs too much.
+
+65
+00:06:08,916 --> 00:06:12,041
+Should we take over the project
+Team A is working on?
+
+66
+00:06:12,833 --> 00:06:14,916
+I'm overworked already.
+Are you trying to kill me?
+
+67
+00:06:15,000 --> 00:06:16,583
+I worked until midnight last night.
+
+68
+00:06:16,666 --> 00:06:17,958
+Then I tested my blood sugar.
+
+69
+00:06:18,041 --> 00:06:19,666
+- How was it?
+- It was 18.
+
+70
+00:06:19,750 --> 00:06:22,833
+We should have more projects
+and get more bonuses.
+
+71
+00:06:22,916 --> 00:06:24,375
+How many projects do Team A have?
+
+72
+00:06:24,458 --> 00:06:26,375
+Three, working 16 hours per day.
+
+73
+00:06:26,458 --> 00:06:28,166
+Do you see them smoking here?
+
+74
+00:06:28,250 --> 00:06:30,958
+Not even in the toilet. They wear diapers.
+
+75
+00:06:31,041 --> 00:06:32,041
+That's insane.
+
+76
+00:06:32,125 --> 00:06:34,208
+They are all fucking insane.
+
+77
+00:06:34,291 --> 00:06:36,958
+They are just like you, Sun Fendou.
+
+78
+00:06:37,041 --> 00:06:38,833
+A fighting grandson, you know.
+
+79
+00:06:38,916 --> 00:06:40,416
+A fighting grandson.
+
+80
+00:06:42,000 --> 00:06:42,875
+Mr. Gao.
+
+81
+00:06:43,458 --> 00:06:44,541
+Mr. Gao.
+
+82
+00:06:44,625 --> 00:06:46,750
+Mr. Shi wants to see you.
+
+83
+00:06:46,833 --> 00:06:47,666
+Bye.
+
+84
+00:07:16,625 --> 00:07:18,708
+{\an8}OLD COMRADE
+
+85
+00:07:25,958 --> 00:07:27,625
+So, you're letting me go?
+
+86
+00:07:27,708 --> 00:07:28,541
+Yes.
+
+87
+00:07:37,125 --> 00:07:38,375
+Are you crazy?
+
+88
+00:07:38,458 --> 00:07:40,875
+- Call security.
+- I work my ass off.
+
+89
+00:07:40,958 --> 00:07:42,125
+Overtime everyday.
+
+90
+00:07:42,208 --> 00:07:44,625
+I've been here for ages and got diabetes.
+
+91
+00:07:44,708 --> 00:07:46,125
+Now I can't outlast Sun Fendou,
+
+92
+00:07:46,208 --> 00:07:47,583
+so you're firing me?
+
+93
+00:07:47,666 --> 00:07:50,000
+What's wrong with you, you bastards?
+
+94
+00:07:50,083 --> 00:07:52,333
+This is ageism. I'm telling you.
+
+95
+00:07:52,416 --> 00:07:54,625
+You're ungrateful bastards.
+
+96
+00:07:57,333 --> 00:07:58,333
+Let go of me.
+
+97
+00:07:58,916 --> 00:07:59,875
+Let go of me.
+
+98
+00:08:04,291 --> 00:08:05,500
+Stop looking.
+
+99
+00:08:07,666 --> 00:08:09,625
+I've worked here for 11 years.
+
+100
+00:08:10,791 --> 00:08:12,500
+Now you're kicking me out.
+
+101
+00:08:12,583 --> 00:08:14,041
+I did the math.
+
+102
+00:08:15,333 --> 00:08:18,083
+- The compensation would be 700,000.
+- 300,000.
+
+103
+00:08:19,083 --> 00:08:21,000
+That's the most we'll offer you.
+
+104
+00:08:21,083 --> 00:08:23,416
+If you agree, take the money and leave.
+
+105
+00:08:25,458 --> 00:08:26,833
+I'll file for labor arbitration.
+
+106
+00:08:26,916 --> 00:08:28,041
+Labor arbitration?
+
+107
+00:08:28,125 --> 00:08:29,583
+No problem.
+
+108
+00:08:29,666 --> 00:08:31,416
+We'll drag it out.
+
+109
+00:08:32,541 --> 00:08:33,375
+Gao.
+
+110
+00:08:34,375 --> 00:08:36,166
+The downsizing list
+
+111
+00:08:36,250 --> 00:08:39,458
+came from our HR Optimization System.
+
+112
+00:08:39,541 --> 00:08:42,916
+The system was actually designed
+by your team.
+
+113
+00:08:43,000 --> 00:08:44,208
+Remember?
+
+114
+00:08:44,291 --> 00:08:46,125
+You even said that we must…
+
+115
+00:08:46,750 --> 00:08:48,458
+respect the algorithm.
+
+116
+00:08:59,375 --> 00:09:00,541
+Stop staring.
+
+117
+00:09:02,625 --> 00:09:04,500
+Is that my order? You are…
+
+118
+00:09:04,583 --> 00:09:06,375
+- I've been calling.
+- What's the rush?
+
+119
+00:09:06,458 --> 00:09:08,041
+The front desk wouldn't take it.
+
+120
+00:09:08,125 --> 00:09:09,916
+You don't have time
+to come get your coffee?
+
+121
+00:09:10,000 --> 00:09:11,875
+I don't understand your accent.
+
+122
+00:10:15,583 --> 00:10:17,291
+- Li Shulin.
+- Here.
+
+123
+00:10:20,625 --> 00:10:21,625
+How old are you?
+
+124
+00:10:22,250 --> 00:10:23,208
+I'm 23.
+
+125
+00:10:23,291 --> 00:10:24,500
+I've just graduated.
+
+126
+00:10:24,583 --> 00:10:25,416
+And you?
+
+127
+00:10:25,500 --> 00:10:27,333
+I'm only 21. I'm here for the internship.
+
+128
+00:10:27,416 --> 00:10:29,541
+{\an8}I'm young. I can try different jobs.
+
+129
+00:10:30,083 --> 00:10:31,708
+{\an8}NO NEW MESSAGE
+
+130
+00:10:32,541 --> 00:10:33,791
+Gao Zhilei.
+
+131
+00:10:33,875 --> 00:10:34,708
+Here.
+
+132
+00:10:38,666 --> 00:10:39,708
+I'm Gao Zhilei.
+
+133
+00:10:39,791 --> 00:10:41,458
+I've got a degree from Tongji University.
+
+134
+00:10:41,541 --> 00:10:43,875
+- I'm proficient with Java--
+- Hold on.
+
+135
+00:10:46,541 --> 00:10:47,875
+You were born in 1978?
+
+136
+00:10:50,958 --> 00:10:52,166
+Why is he even here?
+
+137
+00:10:52,250 --> 00:10:53,166
+I'm sorry.
+
+138
+00:10:53,250 --> 00:10:54,583
+I mistook it for 1998.
+
+139
+00:10:55,791 --> 00:10:56,875
+I once led a team…
+
+140
+00:10:56,958 --> 00:10:59,375
+You can't tell 7 from 9?
+
+141
+00:10:59,458 --> 00:11:01,000
+I'm sorry.
+
+142
+00:11:03,875 --> 00:11:05,458
+I once led a team to--
+
+143
+00:11:05,541 --> 00:11:07,166
+Can we do our job or not?
+
+144
+00:11:09,250 --> 00:11:10,500
+It's not your fault.
+
+145
+00:11:10,583 --> 00:11:12,833
+A programmer in his late 40s.
+
+146
+00:11:13,541 --> 00:11:15,208
+Can you still stay up late?
+
+147
+00:11:15,291 --> 00:11:17,458
+How much should we pay him?
+
+148
+00:11:18,333 --> 00:11:19,666
+Are we a nursing home?
+
+149
+00:11:25,958 --> 00:11:27,583
+You're so early today.
+
+150
+00:11:29,166 --> 00:11:30,875
+Dad, you're not at the store?
+
+151
+00:11:32,083 --> 00:11:33,750
+You're not at work either.
+
+152
+00:11:34,250 --> 00:11:36,958
+I was supposed to meet some clients,
+but it got cancelled.
+
+153
+00:11:45,000 --> 00:11:47,250
+Qin went to interview at your company.
+
+154
+00:11:48,000 --> 00:11:49,583
+They said you were fired.
+
+155
+00:11:50,291 --> 00:11:51,166
+Is that true?
+
+156
+00:11:52,958 --> 00:11:54,458
+Actually, I quit.
+
+157
+00:11:54,541 --> 00:11:56,541
+- That company--
+- Still lying?
+
+158
+00:11:57,166 --> 00:11:58,708
+How long has it been?
+
+159
+00:11:59,333 --> 00:12:00,708
+You're still hiding it?
+
+160
+00:12:02,500 --> 00:12:03,375
+Zhilei.
+
+161
+00:12:03,458 --> 00:12:06,291
+You asked Xiao Ni
+to be a full time housewife.
+
+162
+00:12:06,375 --> 00:12:09,416
+Can our whole family
+rely on the convenience store?
+
+163
+00:12:09,500 --> 00:12:12,083
+A big company wanted to recruit me.
+
+164
+00:12:12,166 --> 00:12:14,125
+Don't tell them.
+
+165
+00:12:14,208 --> 00:12:16,000
+I haven't told Xiao Ni yet.
+
+166
+00:12:16,083 --> 00:12:17,625
+You're unemployed.
+
+167
+00:12:18,166 --> 00:12:21,166
+What will happen to our family?
+
+168
+00:12:32,375 --> 00:12:33,208
+Don't run.
+
+169
+00:12:42,000 --> 00:12:42,875
+Stop.
+
+170
+00:12:56,416 --> 00:12:59,083
+Run? Where can you run now?
+
+171
+00:12:59,166 --> 00:13:01,333
+{\an8}- You promised to find me a P7 job.
+- I did, bro.
+
+172
+00:13:03,250 --> 00:13:05,583
+But with your age and your salary,
+
+173
+00:13:05,666 --> 00:13:07,125
+I couldn't find any.
+
+174
+00:13:07,208 --> 00:13:08,750
+Give me back my money.
+
+175
+00:13:08,833 --> 00:13:10,000
+All of the 30,000.
+
+176
+00:13:10,083 --> 00:13:11,125
+Fine.
+
+177
+00:13:11,208 --> 00:13:12,333
+I'll give it back.
+
+178
+00:13:12,416 --> 00:13:13,708
+Just let me get up.
+
+179
+00:13:13,791 --> 00:13:15,375
+I'll transfer it to you.
+
+180
+00:13:16,208 --> 00:13:17,541
+Let me up, please.
+
+181
+00:13:26,666 --> 00:13:27,791
+I'll get my phone.
+
+182
+00:13:29,750 --> 00:13:31,750
+- Is this your number?
+- Yeah.
+
+183
+00:13:31,833 --> 00:13:33,041
+You called the cops?
+
+184
+00:13:46,208 --> 00:13:47,416
+Got stuck?
+
+185
+00:13:49,166 --> 00:13:50,875
+Try taking off the backpack.
+
+186
+00:13:52,458 --> 00:13:54,125
+Looking for a P7 job?
+
+187
+00:13:54,208 --> 00:13:55,958
+Kiss my ass.
+
+188
+00:13:56,041 --> 00:13:58,833
+If you want a job,
+you can be a cab driver,
+
+189
+00:13:58,916 --> 00:14:01,291
+a delivery man for construction sites
+
+190
+00:14:01,375 --> 00:14:02,916
+or a janitor.
+
+191
+00:14:05,000 --> 00:14:06,500
+Idiot.
+
+192
+00:14:18,458 --> 00:14:19,333
+Hello?
+
+193
+00:14:19,416 --> 00:14:21,166
+<i>- Where are you?</i>
+- What is it?
+
+194
+00:14:21,250 --> 00:14:22,708
+<i>Your dad collapsed.</i>
+
+195
+00:14:23,958 --> 00:14:24,958
+How is he?
+
+196
+00:14:25,041 --> 00:14:26,708
+<i>He's taken to the hospital.</i>
+
+197
+00:14:26,791 --> 00:14:28,208
+<i>Come as soon as you can.</i>
+
+198
+00:14:30,875 --> 00:14:33,250
+<i>He wanted to save some money,</i>
+
+199
+00:14:33,333 --> 00:14:36,625
+<i>so he carried the stocks himself</i>
+<i>and collapsed.</i>
+
+200
+00:14:37,625 --> 00:14:40,041
+It's a stroke caused by fatigue.
+
+201
+00:14:40,125 --> 00:14:42,208
+We've cleared the hematoma,
+
+202
+00:14:42,291 --> 00:14:45,833
+but he still has central hyperthermia
+and severe pneumonia.
+
+203
+00:14:46,833 --> 00:14:48,666
+His condition is quite special.
+
+204
+00:14:48,750 --> 00:14:51,500
+He has thick sputum
+that requires a ventilator.
+
+205
+00:14:52,750 --> 00:14:54,541
+I don't know what got to him.
+
+206
+00:14:54,625 --> 00:14:56,291
+Take it easy.
+
+207
+00:14:56,375 --> 00:14:58,291
+He's practically living in the store now.
+
+208
+00:14:58,375 --> 00:15:00,041
+- The total is 240,000?
+- Yes.
+
+209
+00:15:00,125 --> 00:15:02,500
+We've paid 100,000, so another 140,000?
+
+210
+00:15:02,583 --> 00:15:06,333
+You've paid for the surgery,
+anesthesia, equipment and ECMO.
+
+211
+00:15:06,416 --> 00:15:07,625
+That's 70,000.
+
+212
+00:15:07,708 --> 00:15:09,875
+The 240,000 is for the ICU
+
+213
+00:15:09,958 --> 00:15:11,166
+and the deposit.
+
+214
+00:15:11,250 --> 00:15:12,416
+That much?
+
+215
+00:15:13,000 --> 00:15:14,708
+My dad has health insurance.
+
+216
+00:15:14,791 --> 00:15:16,708
+Mostly, the ICU is not covered,
+
+217
+00:15:16,791 --> 00:15:18,750
+neither are the imported drugs.
+
+218
+00:15:18,833 --> 00:15:21,583
+Of course, you can opt for domestic drugs.
+
+219
+00:15:21,666 --> 00:15:22,583
+It is fine.
+
+220
+00:15:22,666 --> 00:15:25,291
+- When do I have to pay?
+- Within three days.
+
+221
+00:15:37,791 --> 00:15:38,708
+<i>Hello.</i>
+
+222
+00:15:38,791 --> 00:15:40,708
+<i>The 300,000 for my severance.</i>
+
+223
+00:15:40,791 --> 00:15:42,333
+Can you wire it to me now?
+
+224
+00:15:42,416 --> 00:15:43,250
+<i>Yes.</i>
+
+225
+00:15:43,958 --> 00:15:45,666
+I'll do the paper work tomorrow.
+
+226
+00:15:47,083 --> 00:15:48,250
+What is it?
+
+227
+00:15:48,333 --> 00:15:49,541
+I'm on a work call.
+
+228
+00:15:53,541 --> 00:15:54,791
+Yeah.
+
+229
+00:15:54,875 --> 00:15:56,166
+No labor arbitration.
+
+230
+00:15:56,833 --> 00:15:57,666
+Right.
+
+231
+00:15:58,416 --> 00:15:59,250
+Right!
+
+232
+00:16:02,416 --> 00:16:03,875
+Who were you talking to?
+
+233
+00:16:03,958 --> 00:16:05,333
+What labor arbitration?
+
+234
+00:16:06,958 --> 00:16:08,208
+Gao Zhilei.
+
+235
+00:16:08,291 --> 00:16:10,666
+Your salary for the last two months
+hasn't come in.
+
+236
+00:16:10,750 --> 00:16:12,375
+The bank sent me a message
+
+237
+00:16:12,458 --> 00:16:14,500
+saying that our mortgage payment failed.
+
+238
+00:16:17,208 --> 00:16:18,041
+Zhilei.
+
+239
+00:16:19,125 --> 00:16:20,250
+I'm talking to you.
+
+240
+00:16:23,041 --> 00:16:24,375
+What's going on?
+
+241
+00:16:27,291 --> 00:16:28,583
+I lost my job.
+
+242
+00:16:29,541 --> 00:16:30,791
+It's been two months.
+
+243
+00:16:36,791 --> 00:16:39,416
+We lost all our savings
+when P2P industry collapsed last year.
+
+244
+00:16:39,500 --> 00:16:42,541
+We just paid off the debt
+we owed Qiang last month.
+
+245
+00:16:42,625 --> 00:16:44,416
+These cards have 32,000.
+
+246
+00:16:44,500 --> 00:16:47,500
+Monthly spending of the family
+is 21,100 at least.
+
+247
+00:16:47,583 --> 00:16:49,666
+Mortgage payment is 14,900.
+
+248
+00:16:49,750 --> 00:16:51,333
+5,000 for necessities.
+
+249
+00:16:51,416 --> 00:16:52,791
+400 for medical bills.
+
+250
+00:16:52,875 --> 00:16:54,375
+500 for Jiajia's tuition.
+
+251
+00:16:54,458 --> 00:16:55,750
+300 for your insulin.
+
+252
+00:16:56,333 --> 00:16:58,750
+I'll reopen the drum class for kids.
+
+253
+00:16:58,833 --> 00:17:02,458
+It'll bring us
+around 7,000 in a good month.
+
+254
+00:17:02,541 --> 00:17:03,458
+Okay.
+
+255
+00:17:03,541 --> 00:17:05,583
+So you'll have to bring in 15,000.
+
+256
+00:17:06,500 --> 00:17:09,208
+15,000 is not a problem. I can do it.
+
+257
+00:17:10,875 --> 00:17:11,916
+No problem.
+
+258
+00:17:13,208 --> 00:17:14,166
+And the 4,000.
+
+259
+00:17:14,250 --> 00:17:17,458
+After Dad's hospitalization,
+his rehab will cost 4,000 a month.
+
+260
+00:17:21,416 --> 00:17:23,500
+The international school called me.
+
+261
+00:17:23,583 --> 00:17:24,875
+Jiajia is accepted.
+
+262
+00:17:26,250 --> 00:17:27,083
+That's great.
+
+263
+00:17:29,083 --> 00:17:30,041
+We should forget it.
+
+264
+00:17:30,125 --> 00:17:31,958
+We won't get the deposit back, though.
+
+265
+00:17:32,041 --> 00:17:33,166
+Don't do that.
+
+266
+00:17:33,250 --> 00:17:34,833
+I'll work something out.
+
+267
+00:17:36,250 --> 00:17:37,416
+Like what?
+
+268
+00:17:40,041 --> 00:17:41,250
+Just something.
+
+269
+00:17:41,333 --> 00:17:42,375
+What thing?
+
+270
+00:17:43,958 --> 00:17:44,958
+I'll find a way.
+
+271
+00:17:45,041 --> 00:17:46,750
+- I can handle it.
+- Can you?
+
+272
+00:17:47,458 --> 00:17:48,500
+I can.
+
+273
+00:17:48,583 --> 00:17:49,583
+With what?
+
+274
+00:17:50,833 --> 00:17:51,750
+How?
+
+275
+00:17:54,791 --> 00:17:56,000
+Look at me.
+
+276
+00:17:56,583 --> 00:17:57,625
+Look at me.
+
+277
+00:17:58,625 --> 00:18:00,291
+With Dad's situation,
+
+278
+00:18:00,375 --> 00:18:02,083
+we can't afford more trouble.
+
+279
+00:18:02,166 --> 00:18:03,000
+I know.
+
+280
+00:18:03,625 --> 00:18:05,750
+If we can't keep the house,
+we'll have to move.
+
+281
+00:18:05,833 --> 00:18:07,375
+Jiajia will have to change school.
+
+282
+00:18:07,958 --> 00:18:10,833
+- I know the house is our bottom line.
+- You don't!
+
+283
+00:18:12,083 --> 00:18:14,291
+If you do, you would have told me
+when you got fired.
+
+284
+00:18:15,750 --> 00:18:17,875
+Why didn't you believe that I could help?
+
+285
+00:18:19,250 --> 00:18:21,541
+I could reopen the drum class.
+
+286
+00:18:21,625 --> 00:18:22,708
+I could share your burden.
+
+287
+00:18:22,791 --> 00:18:24,541
+Why didn't you trust me?
+
+288
+00:18:29,208 --> 00:18:30,375
+I'm sorry.
+
+289
+00:18:32,916 --> 00:18:34,625
+I'm not mad at anything else.
+
+290
+00:18:36,458 --> 00:18:38,208
+We've been together for 15 years.
+
+291
+00:18:38,875 --> 00:18:40,500
+I'm fine if you got fired.
+
+292
+00:18:40,583 --> 00:18:41,583
+I can accept it.
+
+293
+00:18:42,583 --> 00:18:45,291
+But I can't accept
+that you kept it from me.
+
+294
+00:18:45,375 --> 00:18:47,041
+Why did you keep it from me?
+
+295
+00:18:48,041 --> 00:18:50,416
+Are you the only one in the family?
+
+296
+00:18:56,458 --> 00:18:58,166
+I didn't want you to worry.
+
+297
+00:19:02,166 --> 00:19:03,625
+This is our family.
+
+298
+00:19:24,958 --> 00:19:27,041
+I can handle the 15,000.
+
+299
+00:19:27,125 --> 00:19:28,333
+I can.
+
+300
+00:19:29,666 --> 00:19:30,750
+I really can.
+
+301
+00:19:38,791 --> 00:19:40,375
+Cui, I'm in a hole.
+
+302
+00:19:40,458 --> 00:19:41,416
+P2P collapsed.
+
+303
+00:19:41,500 --> 00:19:43,375
+My dad had a stroke and I got fired.
+
+304
+00:19:43,458 --> 00:19:45,500
+<i>Mr. Gao, you're 7 days</i>
+<i>behind your mortgage.</i>
+
+305
+00:19:45,583 --> 00:19:47,791
+If you keep stalling,
+the bank will take legal measures.
+
+306
+00:19:47,875 --> 00:19:50,625
+I never missed a payment.
+Could you give me…
+
+307
+00:19:50,708 --> 00:19:53,000
+<i>I told you! It's the bank's rule.</i>
+
+308
+00:19:53,083 --> 00:19:54,083
+Okay, I see.
+
+309
+00:19:55,250 --> 00:19:57,833
+Many thanks to Lovesick for the Porsche.
+
+310
+00:19:57,916 --> 00:19:59,958
+Guys, I have good news.
+
+311
+00:20:00,041 --> 00:20:02,416
+Last month, I've made 1,750 deliveries.
+
+312
+00:20:02,500 --> 00:20:04,333
+It's 10,042 in total for me.
+
+313
+00:20:04,416 --> 00:20:06,000
+Three delays and one bad review.
+
+314
+00:20:06,083 --> 00:20:08,083
+My monthly salary is 1,800.
+
+315
+00:20:08,166 --> 00:20:10,416
+The night shift bonus is 180.
+
+316
+00:20:10,500 --> 00:20:12,041
+The performance bonus is 600.
+
+317
+00:20:12,125 --> 00:20:14,125
+I've made 12,700 in total.
+
+318
+00:20:14,208 --> 00:20:15,541
+{\an8}This is nothing.
+
+319
+00:20:15,625 --> 00:20:18,000
+{\an8}The top guy at my station makes 16,000.
+
+320
+00:20:19,125 --> 00:20:21,083
+Young man, you're a delivery man?
+
+321
+00:20:21,166 --> 00:20:22,000
+Yeah.
+
+322
+00:20:22,083 --> 00:20:23,791
+You can make 12,000 a month?
+
+323
+00:20:23,875 --> 00:20:25,916
+- Yeah.
+- And who makes 16,000?
+
+324
+00:20:26,000 --> 00:20:27,625
+The top guy at my station.
+
+325
+00:20:29,208 --> 00:20:33,125
+If someone like me becomes a delivery man,
+will I make 15,000?
+
+326
+00:20:33,708 --> 00:20:34,625
+Sure.
+
+327
+00:20:34,708 --> 00:20:36,250
+But for that much,
+
+328
+00:20:36,333 --> 00:20:37,666
+you must do it full time.
+
+329
+00:20:37,750 --> 00:20:39,083
+It is not so easy.
+
+330
+00:20:42,208 --> 00:20:43,458
+You want in?
+
+331
+00:20:44,333 --> 00:20:46,916
+No, just getting a sense of the job.
+
+332
+00:20:47,000 --> 00:20:49,500
+You can scan my code if you want in.
+
+333
+00:20:49,583 --> 00:20:50,666
+It's on my bike.
+
+334
+00:20:50,750 --> 00:20:51,875
+I'm Yang Dashan.
+
+335
+00:20:52,833 --> 00:20:54,458
+That dude is pretty cool.
+
+336
+00:20:57,166 --> 00:20:59,958
+YANG DASHAN, THE ROMANTIC RIDER
+
+337
+00:21:32,458 --> 00:21:34,125
+Sterilize the box properly.
+
+338
+00:21:34,208 --> 00:21:37,041
+Spray the ethanol,
+wipe the inside with the white towel.
+
+339
+00:21:37,125 --> 00:21:39,166
+Use the colored towel for the outside.
+
+340
+00:21:40,125 --> 00:21:41,250
+Foodie Delivery.
+
+341
+00:21:41,333 --> 00:21:42,666
+Loved by all.
+
+342
+00:21:42,750 --> 00:21:43,791
+Foodie Delivery.
+
+343
+00:21:43,875 --> 00:21:45,500
+Faster by each call.
+
+344
+00:21:45,583 --> 00:21:47,208
+You did well yesterday.
+
+345
+00:21:47,291 --> 00:21:49,833
+The number of orders is most important.
+
+346
+00:21:49,916 --> 00:21:51,583
+When the delay rate goes above 3%,
+
+347
+00:21:51,666 --> 00:21:52,958
+our ratings go down.
+
+348
+00:21:53,041 --> 00:21:55,375
+When it happens,
+our fee goes down.
+
+349
+00:21:55,458 --> 00:21:57,083
+That will affect everybody.
+
+350
+00:21:57,708 --> 00:22:00,750
+Our station used to be
+number one in this area.
+
+351
+00:22:00,833 --> 00:22:03,250
+We dropped to number two last month.
+
+352
+00:22:03,333 --> 00:22:04,791
+Will we be number three next month?
+
+353
+00:22:04,875 --> 00:22:06,375
+And then number four?
+
+354
+00:22:06,458 --> 00:22:08,125
+Then we will be shut down.
+
+355
+00:22:08,208 --> 00:22:09,833
+Then you're out of a job.
+
+356
+00:22:09,916 --> 00:22:11,208
+I don't want that.
+
+357
+00:22:11,291 --> 00:22:12,833
+Then move faster.
+
+358
+00:22:12,916 --> 00:22:16,125
+Move faster…
+
+359
+00:22:16,208 --> 00:22:18,958
+A round of applause for our hard-workers.
+
+360
+00:22:21,833 --> 00:22:23,166
+Good. Dismissed.
+
+361
+00:22:26,750 --> 00:22:27,708
+Listen up, guys.
+
+362
+00:22:27,791 --> 00:22:30,291
+Over the past year,
+the local deliveries here
+
+363
+00:22:30,375 --> 00:22:32,000
+have had over 300 traffic accidents.
+
+364
+00:22:32,083 --> 00:22:34,041
+You must be safe out there.
+
+365
+00:22:36,833 --> 00:22:37,708
+Sir, hi.
+
+366
+00:22:38,458 --> 00:22:39,583
+I want to join.
+
+367
+00:22:41,708 --> 00:22:43,416
+- Where are you from?
+- I'm from here.
+
+368
+00:22:43,500 --> 00:22:44,666
+Local.
+
+369
+00:22:44,750 --> 00:22:46,583
+- You can't do this. Go home.
+- Wait.
+
+370
+00:22:46,666 --> 00:22:49,000
+Are you saying I'm too old?
+
+371
+00:22:49,083 --> 00:22:50,500
+- Zhang.
+- Here.
+
+372
+00:22:51,125 --> 00:22:52,333
+- How old are you?
+- I'm 57.
+
+373
+00:22:52,416 --> 00:22:54,583
+My wife is 56. My son works here too.
+
+374
+00:22:54,666 --> 00:22:56,166
+Enough. He's not a cop.
+
+375
+00:22:56,250 --> 00:22:57,083
+He's 57 and working.
+
+376
+00:22:57,166 --> 00:22:58,583
+It's not about the age.
+
+377
+00:22:59,041 --> 00:23:00,416
+I know.
+
+378
+00:23:00,500 --> 00:23:01,375
+Sir.
+
+379
+00:23:01,458 --> 00:23:04,166
+I delivered 35 orders yesterday.
+
+380
+00:23:04,875 --> 00:23:06,750
+Bravo. Keep it up.
+
+381
+00:23:06,833 --> 00:23:07,750
+You got this.
+
+382
+00:23:10,500 --> 00:23:12,166
+We don't discriminate here.
+
+383
+00:23:12,250 --> 00:23:13,958
+We're all delivery riders.
+
+384
+00:23:14,041 --> 00:23:16,458
+White-collar city elites can't do this.
+
+385
+00:23:16,541 --> 00:23:18,791
+- Too much hardship.
+- Look. Here's my health certificate.
+
+386
+00:23:18,875 --> 00:23:19,833
+This job is exhausting.
+
+387
+00:23:19,916 --> 00:23:21,375
+- Forget it.
+- I can do it.
+
+388
+00:23:21,458 --> 00:23:23,250
+Bro, you came.
+
+389
+00:23:23,333 --> 00:23:24,333
+You really came.
+
+390
+00:23:25,291 --> 00:23:27,375
+- Did you tell him to come?
+- Yeah.
+
+391
+00:23:27,458 --> 00:23:29,333
+Aren't we short on staff?
+
+392
+00:23:29,416 --> 00:23:30,416
+But him?
+
+393
+00:23:30,500 --> 00:23:32,500
+Look at his belly. Can he do this?
+
+394
+00:23:33,500 --> 00:23:34,375
+Talk to him.
+
+395
+00:23:35,041 --> 00:23:35,875
+Bro.
+
+396
+00:23:36,708 --> 00:23:37,541
+I…
+
+397
+00:23:38,291 --> 00:23:39,583
+I can't find any job.
+
+398
+00:23:40,416 --> 00:23:41,375
+I need money.
+
+399
+00:23:48,291 --> 00:23:49,500
+Take him to suit up.
+
+400
+00:23:49,583 --> 00:23:50,416
+You train him.
+
+401
+00:23:50,500 --> 00:23:51,416
+Thank you, sir.
+
+402
+00:23:54,958 --> 00:23:57,083
+Bro, this is our platform's app.
+
+403
+00:23:57,166 --> 00:23:59,166
+Log on every day before you start.
+
+404
+00:23:59,250 --> 00:24:00,875
+It will give out orders.
+
+405
+00:24:00,958 --> 00:24:02,916
+The second you take an order,
+the timer is on.
+
+406
+00:24:03,000 --> 00:24:05,125
+<i>Pickups and deliveries</i>
+<i>both count as time taken.</i>
+
+407
+00:24:05,208 --> 00:24:08,333
+<i>Order confirmed,</i>
+<i>please head to pickup spot ASAP.</i>
+
+408
+00:24:16,041 --> 00:24:18,500
+<i>Your rider has arrived at the shop.</i>
+
+409
+00:24:19,125 --> 00:24:20,791
+- Take a look.
+- Thank you.
+
+410
+00:24:20,875 --> 00:24:22,416
+<i>Your rider has picked up the order.</i>
+
+411
+00:24:24,375 --> 00:24:25,291
+<i>Do not be late.</i>
+
+412
+00:24:25,375 --> 00:24:26,666
+<i>Your pay will be cut.</i>
+
+413
+00:24:27,416 --> 00:24:29,291
+{\an8}- Delivery for 6983.
+- Thanks.
+
+414
+00:24:31,250 --> 00:24:32,791
+We're out of jackets. Wear this.
+
+415
+00:24:32,875 --> 00:24:34,000
+All right.
+
+416
+00:24:34,083 --> 00:24:35,541
+Bro, tuck your belly in.
+
+417
+00:24:35,625 --> 00:24:37,125
+I'll get you a larger size tomorrow.
+
+418
+00:24:37,208 --> 00:24:39,750
+- What's this?
+- It's our ranking at the station.
+
+419
+00:24:39,833 --> 00:24:41,000
+The manager designed it.
+
+420
+00:24:41,083 --> 00:24:42,458
+It's updated monthly.
+
+421
+00:24:42,541 --> 00:24:44,000
+{\an8}- You're number 10?
+- Yes.
+
+422
+00:24:45,458 --> 00:24:47,458
+{\an8}Who's this Big Black at the top?
+
+423
+00:24:49,125 --> 00:24:50,083
+That's him.
+
+424
+00:24:50,166 --> 00:24:51,083
+<i>30 years old.</i>
+
+425
+00:24:51,166 --> 00:24:53,583
+<i>From Alxa Right Banner, Inner Mongolia.</i>
+
+426
+00:24:53,666 --> 00:24:55,875
+<i>He's dark-skinned, tall and strong,</i>
+
+427
+00:24:55,958 --> 00:24:57,500
+<i>hence the nickname.</i>
+
+428
+00:24:58,333 --> 00:25:00,833
+<i>He doesn't talk much and rarely smiles.</i>
+
+429
+00:25:00,916 --> 00:25:03,416
+<i>But he's good, a born delivery rider.</i>
+
+430
+00:25:03,500 --> 00:25:06,875
+<i>He used to to herd sheep</i>
+<i>on a motorcycle back home.</i>
+
+431
+00:25:08,333 --> 00:25:09,541
+<i>Big Black is a workaholic.</i>
+
+432
+00:25:09,625 --> 00:25:11,250
+<i>He takes at least 70 orders everyday</i>
+
+433
+00:25:11,333 --> 00:25:13,750
+<i>and can work for over 16 hours straight.</i>
+
+434
+00:25:13,833 --> 00:25:15,125
+<i>He only takes a nap on the bike.</i>
+
+435
+00:25:15,208 --> 00:25:17,708
+<i>He knows the roads well</i>
+<i>and only needs a glimpse at the order</i>
+
+436
+00:25:17,791 --> 00:25:18,958
+<i>to decide the fastest route.</i>
+
+437
+00:25:19,041 --> 00:25:20,833
+<i>He has a secret notebook,</i>
+
+438
+00:25:20,916 --> 00:25:22,583
+<i>which he never shares with anyone.</i>
+
+439
+00:25:23,541 --> 00:25:25,333
+<i>Big Black has stomach problems</i>
+
+440
+00:25:25,416 --> 00:25:27,041
+because he never eats on time.
+
+441
+00:25:27,125 --> 00:25:28,250
+Despite that,
+
+442
+00:25:28,333 --> 00:25:30,291
+he's still our hardest worker,
+
+443
+00:25:30,375 --> 00:25:32,416
+the biggest order-taker
+and the fastest rider.
+
+444
+00:25:32,500 --> 00:25:34,916
+He never takes pass-on orders,
+so he's very unpopular.
+
+445
+00:25:35,000 --> 00:25:36,708
+He has only one friend here.
+
+446
+00:25:36,791 --> 00:25:39,000
+Bad luck. Not a single number.
+
+447
+00:25:39,083 --> 00:25:40,000
+That's Stingie.
+
+448
+00:25:40,083 --> 00:25:40,916
+35 years old.
+
+449
+00:25:41,000 --> 00:25:42,125
+From Luhe, Nanjing.
+
+450
+00:25:42,208 --> 00:25:44,166
+<i>He used to be a farmer back home.</i>
+
+451
+00:25:44,250 --> 00:25:45,708
+<i>Now the whole family has moved here.</i>
+
+452
+00:25:45,791 --> 00:25:48,166
+<i>He's called Stingie because he's stingy.</i>
+
+453
+00:25:48,250 --> 00:25:50,666
+<i>When his bike broke,</i>
+<i>he patched it up with tape.</i>
+
+454
+00:25:50,750 --> 00:25:52,291
+<i>Same with his helmet</i>
+
+455
+00:25:52,375 --> 00:25:54,041
+<i>and his raincoat too.</i>
+
+456
+00:25:54,125 --> 00:25:56,791
+<i>It's said he even uses tape</i>
+<i>to patch up torn underwear.</i>
+
+457
+00:25:57,500 --> 00:26:00,583
+<i>He orders plain rice and no dishes</i>
+<i>at the restaurant.</i>
+
+458
+00:26:00,666 --> 00:26:03,541
+<i>But he knows</i>
+<i>the best restaurants in this area.</i>
+
+459
+00:26:03,625 --> 00:26:04,750
+They're not expensive.
+
+460
+00:26:04,833 --> 00:26:06,333
+- Cheapskate.
+- Hurry.
+
+461
+00:26:06,416 --> 00:26:08,166
+<i>He only drinks tap water</i>
+
+462
+00:26:08,250 --> 00:26:10,666
+<i>and saves the money to buy lottery.</i>
+
+463
+00:26:16,083 --> 00:26:18,041
+<i>He speaks bad Mandarin,</i>
+<i>so he is hard to talk to.</i>
+
+464
+00:26:18,125 --> 00:26:19,916
+Where is this "Cuocuo Ferry"?
+
+465
+00:26:20,000 --> 00:26:21,000
+What's the rush?
+
+466
+00:26:21,083 --> 00:26:22,375
+The front desk wouldn't take it.
+
+467
+00:26:22,458 --> 00:26:24,333
+You don't have time
+to come get your coffee?
+
+468
+00:26:24,416 --> 00:26:26,583
+I don't understand your accent.
+
+469
+00:26:26,666 --> 00:26:27,500
+What is that?
+
+470
+00:26:29,458 --> 00:26:31,000
+Back home, I would've punched you.
+
+471
+00:26:31,083 --> 00:26:33,291
+<i>He has thus received many complaints.</i>
+
+472
+00:26:33,375 --> 00:26:34,958
+POOR SERVICE
+
+473
+00:26:35,041 --> 00:26:36,208
+What the hell?
+
+474
+00:26:36,875 --> 00:26:37,708
+Stingie.
+
+475
+00:26:38,541 --> 00:26:39,666
+This is Gao, he's new.
+
+476
+00:26:39,750 --> 00:26:40,583
+Hi.
+
+477
+00:26:46,791 --> 00:26:48,291
+You're close?
+
+478
+00:26:48,375 --> 00:26:49,208
+Not really.
+
+479
+00:26:50,666 --> 00:26:51,500
+What are you doing?
+
+480
+00:26:51,583 --> 00:26:53,291
+- Finished the paper work?
+- In a minute.
+
+481
+00:26:53,375 --> 00:26:55,333
+Hurry, you've got work to do.
+
+482
+00:26:55,416 --> 00:26:57,541
+Mr. Zhu is from Shenyang.
+
+483
+00:26:57,625 --> 00:26:59,750
+<i>He has a fierce look and a mean attitude.</i>
+
+484
+00:26:59,833 --> 00:27:01,166
+<i>But he's a nice guy.</i>
+
+485
+00:27:01,250 --> 00:27:02,875
+<i>He just wants a promotion badly.</i>
+
+486
+00:27:02,958 --> 00:27:04,583
+<i>He is quite experienced.</i>
+
+487
+00:27:04,666 --> 00:27:06,666
+<i>He worked as a foreman,</i>
+<i>on an assembly line,</i>
+
+488
+00:27:06,750 --> 00:27:08,875
+<i>as a security guard</i>
+<i>and a property manager.</i>
+
+489
+00:27:08,958 --> 00:27:11,041
+<i>He ended up as a delivery manager.</i>
+
+490
+00:27:12,041 --> 00:27:14,666
+No matter what they deliver, stop them.
+
+491
+00:27:14,750 --> 00:27:17,666
+However mean the security guards are,
+go past them.
+
+492
+00:27:18,250 --> 00:27:19,125
+You see that?
+
+493
+00:27:19,208 --> 00:27:20,750
+<i>His performance and management skills</i>
+
+494
+00:27:20,833 --> 00:27:22,416
+<i>got him noticed.</i>
+
+495
+00:27:22,500 --> 00:27:24,375
+<i>He's since been promoted to manager.</i>
+
+496
+00:27:24,458 --> 00:27:27,125
+<i>Mr. Zhu focuses</i>
+<i>on order count and reputation.</i>
+
+497
+00:27:27,208 --> 00:27:28,833
+<i>The Top Rider Ranking</i>
+
+498
+00:27:28,916 --> 00:27:30,500
+<i>is his way of boosting morale.</i>
+
+499
+00:27:30,583 --> 00:27:33,166
+Raincoat. Holder. Badge.
+
+500
+00:27:33,250 --> 00:27:34,750
+Now you have everything,
+
+501
+00:27:34,833 --> 00:27:36,500
+except for one thing.
+
+502
+00:27:36,583 --> 00:27:37,416
+What?
+
+503
+00:27:38,166 --> 00:27:39,000
+Bike.
+
+504
+00:27:39,125 --> 00:27:40,958
+I'm taking you to a fancy place.
+
+505
+00:27:45,250 --> 00:27:46,083
+Bro.
+
+506
+00:27:46,166 --> 00:27:48,291
+If you want to make 15,000 a month,
+
+507
+00:27:48,375 --> 00:27:50,708
+you will need to bust your ass.
+
+508
+00:27:50,791 --> 00:27:52,750
+Now you're just a newbie.
+
+509
+00:27:52,833 --> 00:27:54,958
+You only get six RMB per order.
+
+510
+00:27:55,041 --> 00:27:59,166
+You need to level up to increase
+your per-order commission, got it?
+
+511
+00:27:59,250 --> 00:28:00,625
+Don't just talk.
+
+512
+00:28:00,708 --> 00:28:02,125
+Watch the road.
+
+513
+00:28:02,208 --> 00:28:03,625
+I rode in Chongqing.
+
+514
+00:28:03,708 --> 00:28:05,833
+It's far easier here.
+
+515
+00:28:05,916 --> 00:28:06,875
+You're from Chongqing?
+
+516
+00:28:06,958 --> 00:28:08,416
+Zigong, actually.
+
+517
+00:28:08,500 --> 00:28:10,208
+I used to be a hair stylist.
+
+518
+00:28:10,291 --> 00:28:13,000
+Miss, your hair does seem a bit dry.
+
+519
+00:28:13,083 --> 00:28:15,791
+<i>I was a temporary actor.</i>
+<i>and a street promoter.</i>
+
+520
+00:28:20,500 --> 00:28:22,000
+<i>I worked as NPC too.</i>
+
+521
+00:28:22,083 --> 00:28:23,833
+<i>Delivering makes more money.</i>
+
+522
+00:28:23,916 --> 00:28:25,708
+<i>I also do live-streaming.</i>
+
+523
+00:28:25,791 --> 00:28:27,125
+Guys, am I right?
+
+524
+00:28:27,791 --> 00:28:29,000
+Hi, delivery.
+
+525
+00:28:29,083 --> 00:28:30,458
+- Thanks.
+- Do give me a good review.
+
+526
+00:28:30,541 --> 00:28:31,958
+I'm turning 25.
+
+527
+00:28:32,041 --> 00:28:33,833
+So I need to save some money.
+
+528
+00:28:33,916 --> 00:28:35,583
+For what?
+
+529
+00:28:35,666 --> 00:28:37,875
+For getting a wife. What else?
+
+530
+00:28:37,958 --> 00:28:39,708
+- Lu Meili, I miss you.
+<i>- You…</i>
+
+531
+00:28:39,791 --> 00:28:41,750
+Make sure you miss me.
+
+532
+00:28:44,000 --> 00:28:45,458
+What is this place?
+
+533
+00:28:46,875 --> 00:28:49,958
+This underground tunnel
+is in fact a riders' hub,
+
+534
+00:28:50,041 --> 00:28:52,291
+providing services to riders like us.
+
+535
+00:28:52,375 --> 00:28:54,750
+You can buy, rent and repair bikes,
+
+536
+00:28:54,833 --> 00:28:56,333
+change battery, fix your phone.
+
+537
+00:28:56,416 --> 00:28:57,416
+They do it all.
+
+538
+00:28:57,500 --> 00:28:58,916
+Our biggest rivals
+
+539
+00:28:59,000 --> 00:29:00,583
+are those blue fellows.
+
+540
+00:29:00,666 --> 00:29:02,333
+They are called Rapideliver.
+
+541
+00:29:03,708 --> 00:29:04,791
+- Boss.
+- Hi.
+
+542
+00:29:04,875 --> 00:29:06,875
+You should get
+a powerful bike that charges fast.
+
+543
+00:29:06,958 --> 00:29:08,291
+60 kilometers on a full charge.
+
+544
+00:29:08,375 --> 00:29:10,500
+- How much is that?
+- 230 a month, but 200 just for you.
+
+545
+00:29:10,583 --> 00:29:11,708
+I'll throw in a new battery.
+
+546
+00:29:11,791 --> 00:29:12,958
+How about this one?
+
+547
+00:29:18,250 --> 00:29:20,083
+Slow down…
+
+548
+00:29:26,583 --> 00:29:27,916
+Slow down.
+
+549
+00:29:30,791 --> 00:29:33,000
+- Bro, log on first.
+- Okay.
+
+550
+00:29:33,583 --> 00:29:34,875
+30 minutes left for this order.
+
+551
+00:29:34,958 --> 00:29:36,583
+Timer starts once you take it.
+
+552
+00:29:36,666 --> 00:29:37,500
+Don't be late.
+
+553
+00:29:37,583 --> 00:29:39,958
+There will be bad reviews,
+and your pay gets cut.
+
+554
+00:29:40,041 --> 00:29:40,875
+Accept the order.
+
+555
+00:29:40,958 --> 00:29:41,833
+ORDER DETAIL
+
+556
+00:29:41,916 --> 00:29:45,166
+<i>Order confirmed,</i>
+<i>please head to pickup spot ASAP.</i>
+
+557
+00:29:45,750 --> 00:29:46,875
+Time to set out.
+
+558
+00:29:46,958 --> 00:29:48,333
+I know this restaurant.
+
+559
+00:29:48,416 --> 00:29:49,333
+Stay close.
+
+560
+00:29:50,333 --> 00:29:51,166
+Coming.
+
+561
+00:29:51,250 --> 00:29:52,833
+It's a freezing day.
+
+562
+00:29:52,916 --> 00:29:55,000
+This 45-year-old local brother
+
+563
+00:29:55,083 --> 00:29:56,791
+has just joined us.
+
+564
+00:29:56,875 --> 00:29:59,291
+He's making his first delivery today.
+
+565
+00:29:59,375 --> 00:30:01,708
+If you ride like that, you'll get tickets.
+
+566
+00:30:01,791 --> 00:30:03,250
+Pull over there.
+
+567
+00:30:03,333 --> 00:30:04,666
+Wait!
+
+568
+00:30:05,250 --> 00:30:06,958
+Bro, wrong turn! This way!
+
+569
+00:30:07,041 --> 00:30:08,166
+- Go…
+- Follow my rabbit ears.
+
+570
+00:30:08,250 --> 00:30:10,250
+Why would you go that way?
+
+571
+00:30:10,333 --> 00:30:11,250
+Catch up.
+
+572
+00:30:21,000 --> 00:30:22,583
+Once you're there, confirm it.
+
+573
+00:30:22,666 --> 00:30:24,250
+I'll get my order next door.
+
+574
+00:30:25,250 --> 00:30:26,500
+I'm here to pick up an order.
+
+575
+00:30:26,583 --> 00:30:28,625
+- What's the number?
+- Number?
+
+576
+00:30:28,708 --> 00:30:31,208
+- 32, Foodie 32.
+- Just a sec, not ready yet.
+
+577
+00:30:32,500 --> 00:30:33,458
+Hi, Mei.
+
+578
+00:30:33,541 --> 00:30:35,666
+- 35, hurry.
+- Right away.
+
+579
+00:30:36,250 --> 00:30:37,625
+35.
+
+580
+00:30:40,250 --> 00:30:41,083
+- Mei.
+- Hi!
+
+581
+00:30:41,166 --> 00:30:42,000
+37.
+
+582
+00:30:42,083 --> 00:30:43,208
+Hang on, coming.
+
+583
+00:30:45,166 --> 00:30:46,750
+<i>Your rider has arrived at the shop.</i>
+
+584
+00:30:46,833 --> 00:30:49,208
+Rapideliver 24 and 29.
+
+585
+00:30:49,291 --> 00:30:51,083
+{\an8}24, ORDER PICKED UP
+29, ORDER PICKED UP
+
+586
+00:30:52,375 --> 00:30:53,208
+31, ORDER PICKED UP
+
+587
+00:30:53,958 --> 00:30:55,083
+Xiaomin, here.
+
+588
+00:30:55,166 --> 00:30:56,166
+Okay, thanks.
+
+589
+00:30:57,916 --> 00:31:00,041
+Ma'am, when will number 32 be ready?
+
+590
+00:31:00,125 --> 00:31:01,666
+People after me have got theirs.
+
+591
+00:31:01,750 --> 00:31:04,291
+- 37! Foodie 37 is ready.
+- Coming.
+
+592
+00:31:04,791 --> 00:31:06,666
+Bro, why are you still waiting?
+
+593
+00:31:06,750 --> 00:31:08,250
+- You're running late.
+- I…
+
+594
+00:31:08,333 --> 00:31:09,625
+- Boss.
+- Yes?
+
+595
+00:31:09,708 --> 00:31:10,875
+I'm training this new guy.
+
+596
+00:31:10,958 --> 00:31:12,041
+Please take care of him.
+
+597
+00:31:12,125 --> 00:31:13,291
+All right.
+
+598
+00:31:13,375 --> 00:31:15,916
+32, you need to come inside to take it.
+
+599
+00:31:16,000 --> 00:31:17,250
+32, ORDER PICKED UP
+
+600
+00:31:19,041 --> 00:31:20,875
+<i>Your rider has picked up the order.</i>
+
+601
+00:31:27,416 --> 00:31:29,125
+<i>You are running out of time.</i>
+
+602
+00:31:30,083 --> 00:31:33,291
+TIME RUNS OUT IN
+DISTANCE TO CUSTOMER IS
+
+603
+00:31:36,916 --> 00:31:39,125
+TIME RUNS OUT IN
+
+604
+00:31:41,208 --> 00:31:42,833
+<i>Estimated time has run out.</i>
+
+605
+00:31:42,916 --> 00:31:45,291
+OVERTIME
+
+606
+00:31:45,791 --> 00:31:48,166
+<i>Oops. You're late.</i>
+
+607
+00:31:51,375 --> 00:31:52,208
+<i>Oops.</i>
+
+608
+00:31:55,375 --> 00:31:57,583
+<i>Oops. You're late.</i>
+
+609
+00:32:00,250 --> 00:32:01,666
+Did you order food?
+
+610
+00:32:01,750 --> 00:32:03,000
+- Yes.
+- Sorry, I'm late.
+
+611
+00:32:03,083 --> 00:32:05,541
+- It's okay.
+- Should you tap on this or should I?
+
+612
+00:32:05,625 --> 00:32:07,458
+What is this? Where's my food?
+
+613
+00:32:08,083 --> 00:32:09,125
+On, my!
+
+614
+00:32:21,458 --> 00:32:22,791
+- Sorry.
+- Give it to me.
+
+615
+00:32:23,666 --> 00:32:24,708
+Anything else?
+
+616
+00:32:25,458 --> 00:32:26,458
+Nope.
+
+617
+00:32:27,541 --> 00:32:30,208
+<i>A new order has been</i>
+<i>automatically accepted for you.</i>
+
+618
+00:32:32,666 --> 00:32:35,041
+Ma'am, is Foodie 27 ready?
+
+619
+00:32:37,125 --> 00:32:38,833
+- Hey! Are you new?
+- 27…
+
+620
+00:32:38,916 --> 00:32:39,791
+Wait outside.
+
+621
+00:32:39,875 --> 00:32:41,083
+I'll tell you when it's ready.
+
+622
+00:32:44,500 --> 00:32:46,875
+Food is not ready yet.
+Should I confirm pickup?
+
+623
+00:32:46,958 --> 00:32:48,333
+- Are you stupid?
+- What?
+
+624
+00:32:54,541 --> 00:32:55,375
+<i>Chop, chop.</i>
+
+625
+00:32:55,458 --> 00:32:57,125
+<i>You are running out of time.</i>
+
+626
+00:33:03,916 --> 00:33:05,291
+<i>You've run out of time.</i>
+
+627
+00:33:12,750 --> 00:33:14,166
+<i>You've run out of time.</i>
+
+628
+00:33:14,250 --> 00:33:17,041
+<i>You're late.</i>
+<i>Please deliver the order ASAP.</i>
+
+629
+00:33:18,458 --> 00:33:21,000
+<i>You're late.</i>
+<i>Please deliver the order ASAP.</i>
+
+630
+00:33:23,833 --> 00:33:24,833
+Hi.
+
+631
+00:33:24,916 --> 00:33:25,958
+Food delivery.
+
+632
+00:33:26,041 --> 00:33:28,208
+Why did you even bother? It's too late.
+
+633
+00:33:28,291 --> 00:33:30,583
+My dad wanted to have wonton
+before he left.
+
+634
+00:33:31,875 --> 00:33:33,250
+I'm so sorry.
+
+635
+00:33:33,333 --> 00:33:34,500
+I'm sorry for your loss.
+
+636
+00:33:34,583 --> 00:33:35,416
+My condolences.
+
+637
+00:33:35,500 --> 00:33:36,833
+What did you just say?
+
+638
+00:33:36,916 --> 00:33:38,458
+My dad was discharged.
+
+639
+00:33:38,541 --> 00:33:40,750
+- How can you talk like that?
+- I'm sorry.
+
+640
+00:33:42,375 --> 00:33:43,708
+What's wrong with you?
+
+641
+00:33:48,250 --> 00:33:50,375
+Where is Foodie 118?
+
+642
+00:33:50,458 --> 00:33:51,583
+Find it yourself.
+
+643
+00:34:05,000 --> 00:34:07,291
+No delivery bike on campus. Park there.
+
+644
+00:34:08,208 --> 00:34:09,875
+<i>You are running out of time.</i>
+
+645
+00:34:12,750 --> 00:34:14,250
+<i>You have arrived at the destination.</i>
+
+646
+00:34:14,333 --> 00:34:15,833
+<i>Have fun delivering.</i>
+
+647
+00:34:16,333 --> 00:34:17,416
+This is not right.
+
+648
+00:34:17,500 --> 00:34:19,750
+Do you know where Dormitory 4 is?
+
+649
+00:34:19,833 --> 00:34:21,000
+Dormitory 4 is…
+
+650
+00:34:21,083 --> 00:34:22,458
+- This way…
+- That way.
+
+651
+00:34:32,000 --> 00:34:33,041
+Come back.
+
+652
+00:34:33,125 --> 00:34:34,958
+No delivery inside. Go out.
+
+653
+00:34:35,041 --> 00:34:37,041
+Call outside
+and ask them to come downstairs.
+
+654
+00:34:37,125 --> 00:34:39,916
+<i>The number you've dialed</i>
+<i>cannot be connected.</i>
+
+655
+00:34:40,000 --> 00:34:41,208
+Move aside.
+
+656
+00:34:42,458 --> 00:34:44,916
+Just holler if the call is not answered.
+
+657
+00:34:46,583 --> 00:34:48,166
+<i>Oops. You're late.</i>
+
+658
+00:34:48,750 --> 00:34:50,416
+Blooming Arse-ho.
+
+659
+00:34:50,500 --> 00:34:51,916
+Did you not eat?
+
+660
+00:34:52,000 --> 00:34:53,666
+Louder.
+
+661
+00:34:53,750 --> 00:34:56,458
+<i>You will be fined soon.</i>
+<i>Please deliver the order ASAP.</i>
+
+662
+00:34:56,541 --> 00:34:58,458
+Bloom…Blooming Arse-ho.
+
+663
+00:34:59,791 --> 00:35:01,125
+Two boba tea.
+
+664
+00:35:02,750 --> 00:35:04,250
+Blooming Arse-ho.
+
+665
+00:35:04,333 --> 00:35:06,375
+<i>Oops. Your pay has been cut.</i>
+
+666
+00:35:06,458 --> 00:35:09,583
+Blooming Arse-ho!
+
+667
+00:35:09,666 --> 00:35:14,541
+Blooming Arse-ho…
+
+668
+00:35:14,625 --> 00:35:16,166
+Do you know this Arse-ho?
+
+669
+00:35:16,250 --> 00:35:17,083
+No.
+
+670
+00:35:17,166 --> 00:35:18,458
+Stop filming.
+
+671
+00:35:18,541 --> 00:35:21,208
+Your boba tea is here. Blooming Arse-ho.
+
+672
+00:35:21,291 --> 00:35:22,500
+What's your problem?
+
+673
+00:35:24,750 --> 00:35:26,208
+OVERTIME 16 MINUTES
+
+674
+00:35:27,791 --> 00:35:29,541
+Sir, is that my boba tea?
+
+675
+00:35:29,625 --> 00:35:31,166
+Are you Blooming Arse-ho?
+
+676
+00:35:31,250 --> 00:35:32,083
+Yeah.
+
+677
+00:35:33,333 --> 00:35:35,375
+Didn't you hear me yelling?
+
+678
+00:35:35,458 --> 00:35:37,916
+I was wearing headphones
+and didn't hear it.
+
+679
+00:35:39,125 --> 00:35:40,500
+You should stay on your phone.
+
+680
+00:35:40,583 --> 00:35:42,500
+I've been calling you for 10 minutes.
+
+681
+00:35:42,583 --> 00:35:45,125
+Come on.
+You should've brought it upstairs.
+
+682
+00:35:45,208 --> 00:35:47,750
+- The guard wouldn't let me in.
+- It's never been a problem.
+
+683
+00:35:47,833 --> 00:35:50,166
+Why just you? Did you ask her nicely?
+
+684
+00:35:50,250 --> 00:35:52,166
+Why aren't you in class, kid?
+
+685
+00:35:52,250 --> 00:35:54,166
+You play games
+and drink boba tea in your dorm.
+
+686
+00:35:54,250 --> 00:35:55,375
+How will you make a living?
+
+687
+00:35:55,458 --> 00:35:56,625
+By playing games!
+
+688
+00:35:56,708 --> 00:35:58,625
+- You skipped classes!
+- It's weekend.
+
+689
+00:35:58,708 --> 00:36:00,333
+Without me, you'll be out of a job.
+
+690
+00:36:00,416 --> 00:36:01,416
+Lecturing me?
+
+691
+00:36:01,500 --> 00:36:03,666
+- Stop or I'll give you a bad review.
+- Go ahead.
+
+692
+00:36:03,750 --> 00:36:04,625
+Unbelievable.
+
+693
+00:36:04,708 --> 00:36:05,583
+Arse-ho.
+
+694
+00:36:07,000 --> 00:36:09,083
+<i>Oops. You've received a bad review.</i>
+
+695
+00:36:09,166 --> 00:36:12,666
+BAD REVIEW: POOR SERVICE
+
+696
+00:36:49,916 --> 00:36:51,333
+Ew! That's gross.
+
+697
+00:36:51,791 --> 00:36:53,208
+Dad, what did you do?
+
+698
+00:36:53,291 --> 00:36:54,833
+Daddy ran a marathon.
+
+699
+00:36:54,916 --> 00:36:56,041
+I don't believe it.
+
+700
+00:36:56,125 --> 00:36:57,625
+Your dad did a city walk.
+
+701
+00:36:58,208 --> 00:37:00,125
+Have you prepared your English recital?
+
+702
+00:37:01,291 --> 00:37:02,291
+I see.
+
+703
+00:37:05,541 --> 00:37:07,416
+Put my uniform away.
+
+704
+00:37:07,500 --> 00:37:08,916
+Don't let Jiajia see it.
+
+705
+00:37:13,708 --> 00:37:14,958
+How many orders have you made?
+
+706
+00:37:16,000 --> 00:37:18,583
+ORDERS COMPLETED: 15
+INCOME: -97 RMB
+
+707
+00:37:18,666 --> 00:37:19,750
+30 orders.
+
+708
+00:37:19,833 --> 00:37:20,833
+How much per order?
+
+709
+00:37:21,333 --> 00:37:22,291
+About 6 RMB.
+
+710
+00:37:22,375 --> 00:37:23,750
+It's 5,400 a month.
+
+711
+00:37:24,375 --> 00:37:26,000
+It's a far cry from 15,000.
+
+712
+00:37:27,041 --> 00:37:28,666
+I've just started.
+
+713
+00:37:28,750 --> 00:37:31,041
+It is easy. I'll get better soon.
+
+714
+00:37:31,625 --> 00:37:32,458
+Gao Zhilei,
+
+715
+00:37:33,041 --> 00:37:35,333
+I think you should be more realistic
+
+716
+00:37:35,416 --> 00:37:37,541
+and send out more resumes.
+
+717
+00:37:38,708 --> 00:37:39,625
+Gao Zhilei?
+
+718
+00:37:48,125 --> 00:37:50,750
+When facing a customer, always smile.
+
+719
+00:37:50,833 --> 00:37:52,833
+Smile. Don't fake it.
+
+720
+00:37:52,916 --> 00:37:54,375
+No creepy smile.
+
+721
+00:37:54,458 --> 00:37:55,583
+Smile naturally.
+
+722
+00:37:55,666 --> 00:37:57,458
+From the bottom of your heart.
+
+723
+00:38:00,250 --> 00:38:01,208
+Zhang.
+
+724
+00:38:01,666 --> 00:38:03,208
+Don't laugh out loud.
+
+725
+00:38:03,791 --> 00:38:06,541
+- It's from the bottom of my heart.
+- Be cool.
+
+726
+00:38:06,625 --> 00:38:08,000
+This is Operation Smile.
+
+727
+00:38:08,083 --> 00:38:09,666
+We'll do random checks.
+
+728
+00:38:09,750 --> 00:38:11,041
+You will need to take a selfie.
+
+729
+00:38:11,125 --> 00:38:12,333
+When taking a photo,
+
+730
+00:38:12,416 --> 00:38:14,458
+make sure to show your helmet and uniform.
+
+731
+00:38:14,541 --> 00:38:16,958
+Those who fail will be fined 2-500 RMB,
+
+732
+00:38:17,041 --> 00:38:18,041
+and suspended for 3 days.
+
+733
+00:38:18,125 --> 00:38:19,750
+- Are we clear?
+- Yes, sir.
+
+734
+00:38:19,833 --> 00:38:20,750
+Good.
+
+735
+00:38:20,833 --> 00:38:21,708
+Dismissed.
+
+736
+00:38:31,333 --> 00:38:32,833
+Use the staff entrance.
+
+737
+00:38:32,916 --> 00:38:34,875
+- I'm picking up an order.
+- I know.
+
+738
+00:38:34,958 --> 00:38:36,333
+Delivery guys can't go in.
+
+739
+00:38:37,208 --> 00:38:38,708
+I shopped in this mall.
+
+740
+00:38:38,791 --> 00:38:40,041
+I was a consumer.
+
+741
+00:38:40,125 --> 00:38:41,125
+That was before.
+
+742
+00:38:41,208 --> 00:38:43,708
+When you wear this uniform,
+you can only enter at the back.
+
+743
+00:38:43,791 --> 00:38:44,791
+Beat it.
+
+744
+00:38:52,958 --> 00:38:55,208
+{\an8}Hurry, come on.
+
+745
+00:39:14,250 --> 00:39:15,125
+Pickup is that way.
+
+746
+00:39:17,416 --> 00:39:18,708
+Number 35.
+
+747
+00:39:18,791 --> 00:39:20,125
+Number 26.
+
+748
+00:39:21,208 --> 00:39:22,458
+Dude, this is Rapidelilver.
+
+749
+00:39:22,541 --> 00:39:24,208
+- Foodie is over there.
+- I'm sorry.
+
+750
+00:39:24,708 --> 00:39:27,041
+- Foodie 36.
+- Foodie 38.
+
+751
+00:39:27,125 --> 00:39:28,791
+Foodie 36 and 38.
+
+752
+00:39:28,875 --> 00:39:30,500
+Foodie 38.
+
+753
+00:39:31,125 --> 00:39:33,458
+- Foodie 52.
+- Here!
+
+754
+00:39:33,541 --> 00:39:34,583
+Foodie 52.
+
+755
+00:39:34,666 --> 00:39:35,708
+That's me.
+
+756
+00:39:36,458 --> 00:39:37,541
+Hey, How can it…
+
+757
+00:39:38,958 --> 00:39:41,541
+Hey, please don't. I'm leaving.
+
+758
+00:39:41,625 --> 00:39:44,083
+You can't park here. Don't you know that?
+
+759
+00:39:44,166 --> 00:39:45,458
+Well, I don't.
+
+760
+00:39:45,541 --> 00:39:46,958
+I really don't.
+
+761
+00:39:47,041 --> 00:39:48,666
+You will after you get a ticket.
+
+762
+00:39:48,750 --> 00:39:49,583
+200 RMB.
+
+763
+00:40:05,666 --> 00:40:07,416
+- I'm sorry.
+- Hello, comrade.
+
+764
+00:40:07,500 --> 00:40:09,625
+- Please don't give me a fine.
+- Sure.
+
+765
+00:40:20,375 --> 00:40:22,208
+I'M LAW-ABIDING. I'M HONORABLE.
+
+766
+00:40:22,291 --> 00:40:24,083
+Huang, have some snack.
+
+767
+00:40:24,166 --> 00:40:26,208
+What is this? What do you want from me?
+
+768
+00:40:26,291 --> 00:40:27,875
+Can you see my bad reviews here?
+
+769
+00:40:27,958 --> 00:40:28,791
+Yeah.
+
+770
+00:40:28,875 --> 00:40:30,333
+Could you remove them for me?
+
+771
+00:40:31,375 --> 00:40:32,250
+{\an8}Poor service.
+
+772
+00:40:32,333 --> 00:40:33,458
+I can't remove these.
+
+773
+00:40:33,541 --> 00:40:34,666
+<i>It's not my fault.</i>
+
+774
+00:40:34,750 --> 00:40:36,958
+<i>Bad reviews about poor service</i>
+<i>can't be removed.</i>
+
+775
+00:40:37,041 --> 00:40:39,875
+<i>When you guys argue with a customer,</i>
+<i>there's no telling who's wrong.</i>
+
+776
+00:40:39,958 --> 00:40:41,291
+<i>It's complicated, right?</i>
+
+777
+00:40:41,375 --> 00:40:42,583
+Don't bump into anything.
+
+778
+00:40:42,666 --> 00:40:43,750
+- Okay.
+- Dude.
+
+779
+00:40:43,833 --> 00:40:45,500
+Take the trash out on your way out.
+
+780
+00:40:48,708 --> 00:40:49,916
+Give me an attitude?
+
+781
+00:40:50,000 --> 00:40:51,083
+We should just suck it up?
+
+782
+00:40:51,166 --> 00:40:52,416
+Exactly.
+
+783
+00:40:53,583 --> 00:40:55,250
+<i>We're in the service industry.</i>
+
+784
+00:40:55,333 --> 00:40:57,000
+<i>Customers are always right.</i>
+
+785
+00:40:57,083 --> 00:40:58,583
+<i>Sorry, I can't remove those.</i>
+
+786
+00:41:08,583 --> 00:41:10,125
+<i>I made 3 deliveries this morning.</i>
+
+787
+00:41:10,208 --> 00:41:12,458
+I made 21 RMB and the fine was 180.
+
+788
+00:41:12,541 --> 00:41:14,333
+Late delivery and poor service.
+
+789
+00:41:14,416 --> 00:41:15,625
+Two bad reviews, 100 each.
+
+790
+00:41:15,708 --> 00:41:18,375
+You bought coffee and rent a power bank.
+
+791
+00:41:18,458 --> 00:41:19,625
+I bring my own.
+
+792
+00:41:19,708 --> 00:41:21,833
+<i>You should make some deliveries</i>
+<i>in Chongqing.</i>
+
+793
+00:41:21,916 --> 00:41:23,458
+<i>You'll know how easy it is here.</i>
+
+794
+00:41:23,541 --> 00:41:25,708
+- How many deliveries have you made?
+- 28.
+
+795
+00:41:25,791 --> 00:41:26,666
+28?
+
+796
+00:41:26,750 --> 00:41:28,041
+I've got 40 to go.
+
+797
+00:41:29,458 --> 00:41:31,458
+Big Black, I want to get better.
+
+798
+00:41:31,541 --> 00:41:33,458
+What's your secret?
+
+799
+00:41:33,541 --> 00:41:34,375
+My secret is…
+
+800
+00:41:35,416 --> 00:41:36,833
+making more deliveries.
+
+801
+00:43:15,625 --> 00:43:16,458
+Hello?
+
+802
+00:43:16,541 --> 00:43:17,458
+<i>What's the matter?</i>
+
+803
+00:43:17,541 --> 00:43:19,083
+<i>Don't you know you're running late?</i>
+
+804
+00:43:19,166 --> 00:43:20,416
+This place is a maze.
+
+805
+00:43:20,500 --> 00:43:21,500
+I can't find 47.
+
+806
+00:43:21,583 --> 00:43:23,291
+<i>Time is dictated by the system.</i>
+
+807
+00:43:23,375 --> 00:43:24,375
+<i>You're dragging us down.</i>
+
+808
+00:43:24,458 --> 00:43:26,291
+<i>I'll give you extra training tomorrow.</i>
+
+809
+00:43:26,875 --> 00:43:29,333
+<i>Chop, chop. You are running out of time.</i>
+
+810
+00:43:29,916 --> 00:43:30,750
+<i>You have arrived.</i>
+
+811
+00:43:30,833 --> 00:43:31,666
+<i>You're off route.</i>
+
+812
+00:43:31,750 --> 00:43:32,875
+<i>You have arrived.</i>
+
+813
+00:43:32,958 --> 00:43:34,833
+<i>- You're off route.</i>
+- What's wrong with this?
+
+814
+00:43:35,666 --> 00:43:36,916
+Forty-seven…
+
+815
+00:43:37,000 --> 00:43:38,125
+Forty-seven…
+
+816
+00:43:38,208 --> 00:43:39,166
+Forty-seven…
+
+817
+00:43:43,041 --> 00:43:44,666
+<i>You are running out of time.</i>
+
+818
+00:43:46,791 --> 00:43:48,000
+Hi, Foodie Delivery.
+
+819
+00:43:48,083 --> 00:43:49,583
+<i>Are you delivering my flowers or not?</i>
+
+820
+00:43:49,666 --> 00:43:51,083
+<i>I saw you going in circles.</i>
+
+821
+00:43:51,166 --> 00:43:52,500
+<i>- You're already late.</i>
+- I'm sorry.
+
+822
+00:43:52,583 --> 00:43:54,666
+This place is really hard to find.
+
+823
+00:43:54,750 --> 00:43:56,750
+I'll deliver your flowers
+as soon as I can.
+
+824
+00:43:56,833 --> 00:43:58,208
+<i>You're already half an hour late.</i>
+
+825
+00:43:58,291 --> 00:43:59,791
+<i>- Deliver it now.</i>
+- Yes.
+
+826
+00:43:59,875 --> 00:44:01,833
+<i>- Hurry.</i>
+- Sure.
+
+827
+00:44:05,625 --> 00:44:06,791
+Lalamove guy.
+
+828
+00:44:06,875 --> 00:44:08,625
+Do you know where number 47 is?
+
+829
+00:44:08,708 --> 00:44:10,125
+I know this area. Follow me.
+
+830
+00:44:10,666 --> 00:44:11,500
+Thanks.
+
+831
+00:44:11,583 --> 00:44:12,458
+You're welcome.
+
+832
+00:44:13,666 --> 00:44:15,583
+It's hard to find a place in the hood.
+
+833
+00:44:16,458 --> 00:44:17,375
+{\an8}This is 47.
+
+834
+00:44:17,458 --> 00:44:18,500
+{\an8}Okay.
+
+835
+00:44:18,583 --> 00:44:20,458
+- Thank you, sir.
+- It's okay.
+
+836
+00:44:22,375 --> 00:44:23,333
+Hi.
+
+837
+00:44:23,416 --> 00:44:25,083
+Your food is here at the door.
+
+838
+00:44:25,833 --> 00:44:26,916
+<i>I don't see you.</i>
+
+839
+00:44:28,458 --> 00:44:29,291
+Huh?
+
+840
+00:44:30,416 --> 00:44:32,708
+I'm at the door.
+
+841
+00:44:32,791 --> 00:44:36,458
+Aren't you at Number 47,
+Lane 201 in Wanhe Road?
+
+842
+00:44:36,541 --> 00:44:37,833
+<i>That's right. Here I am.</i>
+
+843
+00:44:37,916 --> 00:44:39,333
+You must have made a mistake.
+
+844
+00:44:41,750 --> 00:44:43,958
+<i>You've run out of time.</i>
+
+845
+00:44:44,041 --> 00:44:44,875
+But…
+
+846
+00:44:46,208 --> 00:44:47,291
+The address is correct.
+
+847
+00:44:47,375 --> 00:44:49,125
+I'll hang the bag on your doorknob.
+
+848
+00:44:51,541 --> 00:44:52,416
+{\an8}Hello?
+
+849
+00:44:52,500 --> 00:44:54,875
+{\an8}<i>The customer of Order 47</i>
+<i>put in the wrong address.</i>
+
+850
+00:44:54,958 --> 00:44:57,083
+{\an8}<i>He's at a friend's place. Number 37.</i>
+
+851
+00:44:57,166 --> 00:44:59,083
+{\an8}<i>It's not far. Bring it over.</i>
+
+852
+00:44:59,166 --> 00:45:00,041
+{\an8}But I already left.
+
+853
+00:45:00,125 --> 00:45:01,041
+{\an8}<i>Then go back.</i>
+
+854
+00:45:01,125 --> 00:45:02,500
+{\an8}It's the customer's mistake.
+
+855
+00:45:02,583 --> 00:45:03,750
+{\an8}Why should I make it right?
+
+856
+00:45:03,833 --> 00:45:05,833
+{\an8}<i>Do you know</i>
+<i>how many bad reviews you've got?</i>
+
+857
+00:45:05,916 --> 00:45:07,541
+{\an8}<i>Do you want to keep the job?</i>
+
+858
+00:45:15,875 --> 00:45:17,500
+Sorry. I put in the wrong address.
+
+859
+00:45:23,333 --> 00:45:25,125
+You need to give us the right address.
+
+860
+00:45:25,208 --> 00:45:27,083
+What's with the attitude?
+
+861
+00:45:27,166 --> 00:45:28,333
+Haven't I apologized?
+
+862
+00:45:28,416 --> 00:45:30,250
+I spent an hour delivering your order.
+
+863
+00:45:30,333 --> 00:45:32,583
+I've apologized. What more do you want?
+
+864
+00:45:33,625 --> 00:45:34,666
+My order.
+
+865
+00:45:34,750 --> 00:45:35,750
+Give it to me.
+
+866
+00:45:37,541 --> 00:45:39,166
+I've been waiting for a long time too.
+
+867
+00:45:39,250 --> 00:45:41,458
+All my following orders will be late now.
+
+868
+00:45:43,541 --> 00:45:45,500
+How is that my fault?
+
+869
+00:45:46,000 --> 00:45:48,041
+- Whose fault is it then?
+- Who do you think?
+
+870
+00:45:48,833 --> 00:45:50,708
+What are you trying to say?
+
+871
+00:45:50,791 --> 00:45:52,583
+Do you want a bad review?
+
+872
+00:45:52,666 --> 00:45:53,541
+Who is it?
+
+873
+00:45:53,625 --> 00:45:55,708
+- Yes or no?
+- What's going on?
+
+874
+00:45:55,791 --> 00:45:57,083
+Enough, let's go.
+
+875
+00:45:57,166 --> 00:45:59,208
+Don't snap at the delivery guy.
+
+876
+00:46:00,875 --> 00:46:01,875
+Yes or no?
+
+877
+00:46:04,875 --> 00:46:05,875
+No.
+
+878
+00:46:05,958 --> 00:46:07,708
+Say you're sorry then.
+
+879
+00:46:11,708 --> 00:46:13,000
+If you say you're sorry,
+
+880
+00:46:13,583 --> 00:46:15,291
+I won't give you a bad review.
+
+881
+00:46:15,708 --> 00:46:16,541
+How about it?
+
+882
+00:46:19,333 --> 00:46:20,833
+- I'm sorry.
+- What?
+
+883
+00:46:26,541 --> 00:46:27,416
+I'm sorry.
+
+884
+00:46:27,875 --> 00:46:30,250
+Losers like you
+should be delivering food for life.
+
+885
+00:46:30,333 --> 00:46:31,791
+Let's have dinner. Come.
+
+886
+00:46:31,875 --> 00:46:33,416
+Back to mahjong.
+
+887
+00:46:43,083 --> 00:46:43,958
+Hello?
+
+888
+00:46:44,041 --> 00:46:45,416
+<i>Why did you turn back again?</i>
+
+889
+00:46:45,500 --> 00:46:47,083
+{\an8}It's a pre-paid order.
+
+890
+00:46:47,166 --> 00:46:49,333
+{\an8}I've paid for it
+and will surely deliver it.
+
+891
+00:47:00,208 --> 00:47:02,208
+<i>Customer has canceled the order.</i>
+
+892
+00:47:02,291 --> 00:47:05,583
+PRE-PAID ORDER: FENGZHI FLOWERS
+RIDER HAS PICKED UP ORDER, DELIVERING
+
+893
+00:47:05,666 --> 00:47:08,208
+ORDER IS CANCELED AND UNPAID
+NOT DELIVERED ON TIME
+
+894
+00:47:48,250 --> 00:47:51,291
+{\an8}I FREAKING QUIT!
+
+895
+00:47:51,375 --> 00:47:54,666
+{\an8}WIFE: INCOMING CALL
+
+896
+00:47:56,041 --> 00:47:56,875
+Hello.
+
+897
+00:47:56,958 --> 00:47:59,666
+<i>Dad would be discharged today.</i>
+<i>Weren't you supposed to pick him up?</i>
+
+898
+00:47:59,750 --> 00:48:00,750
+<i>Did you forget?</i>
+
+899
+00:48:14,083 --> 00:48:15,208
+Zhilei.
+
+900
+00:48:15,291 --> 00:48:16,125
+Coming.
+
+901
+00:48:22,041 --> 00:48:25,250
+Why do we come to the store at this hour?
+
+902
+00:48:27,833 --> 00:48:29,458
+Dad, just one look.
+
+903
+00:48:29,541 --> 00:48:31,541
+You should go home
+and rest for a few day first.
+
+904
+00:48:34,250 --> 00:48:35,250
+Dad.
+
+905
+00:48:35,333 --> 00:48:36,166
+You…
+
+906
+00:48:46,750 --> 00:48:49,750
+A Tongji graduate is delivering food?
+
+907
+00:48:50,500 --> 00:48:51,875
+What's wrong with that?
+
+908
+00:48:51,958 --> 00:48:54,416
+I didn't bust my ass
+to put you through college
+
+909
+00:48:54,500 --> 00:48:57,375
+so you can end up being a coolie.
+
+910
+00:48:57,458 --> 00:48:58,958
+It's only a temporary job.
+
+911
+00:48:59,041 --> 00:49:00,416
+I'll find another one.
+
+912
+00:49:00,500 --> 00:49:02,625
+It's hard to find any jobs nowadays.
+
+913
+00:49:03,208 --> 00:49:07,125
+Zhilei wanted to make more money
+so you can go to a rehabilitation center.
+
+914
+00:49:07,750 --> 00:49:09,791
+I'm not going.
+
+915
+00:49:11,875 --> 00:49:14,000
+It's not helpful to say stuff like this.
+
+916
+00:49:14,083 --> 00:49:16,166
+If you don't go,
+people will say I'm a bad son.
+
+917
+00:49:16,250 --> 00:49:17,083
+Stop talking.
+
+918
+00:49:17,166 --> 00:49:19,833
+Does being a delivery man
+make you a good son?
+
+919
+00:49:19,916 --> 00:49:21,458
+Why are you getting all worked up?
+
+920
+00:49:21,541 --> 00:49:23,000
+You want to go back to the hospital?
+
+921
+00:49:23,083 --> 00:49:24,500
+No more treatment. I'm done.
+
+922
+00:49:24,583 --> 00:49:26,708
+What about the clot in your head?
+
+923
+00:49:26,791 --> 00:49:28,625
+Stop, don't get him worked up.
+
+924
+00:49:28,708 --> 00:49:30,250
+He's getting me worked up.
+
+925
+00:49:30,333 --> 00:49:31,625
+I've already paid 300,000.
+
+926
+00:49:31,708 --> 00:49:32,916
+Enough already.
+
+927
+00:49:36,375 --> 00:49:37,458
+This house's to blame.
+
+928
+00:49:37,541 --> 00:49:39,500
+I told you it was too expensive.
+
+929
+00:49:39,583 --> 00:49:40,958
+Now we have no money.
+
+930
+00:49:41,041 --> 00:49:42,750
+What does that come from?
+
+931
+00:49:42,833 --> 00:49:44,833
+We agreed on buying the house together.
+
+932
+00:49:44,916 --> 00:49:47,125
+Mom and Dad sold the old house to chip in.
+
+933
+00:49:47,208 --> 00:49:48,333
+What do you want me to do?
+
+934
+00:49:48,416 --> 00:49:49,250
+Why are you yelling?
+
+935
+00:49:49,333 --> 00:49:50,541
+We'll work out a solution.
+
+936
+00:49:50,625 --> 00:49:52,041
+I'm out of solutions.
+
+937
+00:49:52,625 --> 00:49:53,625
+I'm such a loser.
+
+938
+00:49:55,083 --> 00:49:56,416
+I support the whole family.
+
+939
+00:49:56,500 --> 00:49:58,500
+I pay for all these bills.
+
+940
+00:49:58,583 --> 00:49:59,916
+I like being a delivery man?
+
+941
+00:50:00,000 --> 00:50:01,375
+I'm 45 already.
+
+942
+00:50:01,458 --> 00:50:02,958
+I've sent out 1,000 resumes.
+
+943
+00:50:03,041 --> 00:50:04,333
+No one wants to hire me.
+
+944
+00:50:05,041 --> 00:50:06,708
+Mommy, Daddy, stop fighting.
+
+945
+00:50:06,791 --> 00:50:08,833
+And you must go
+to an international school.
+
+946
+00:50:08,916 --> 00:50:10,250
+It costs 200,000 a year.
+
+947
+00:50:10,333 --> 00:50:11,458
+We can't afford it.
+
+948
+00:50:11,541 --> 00:50:12,791
+What is wrong with you?
+
+949
+00:50:12,875 --> 00:50:14,833
+Why are you taking it out on the child?
+
+950
+00:50:14,916 --> 00:50:15,791
+Are you crazy?
+
+951
+00:50:20,625 --> 00:50:22,166
+So what? I can't get mad?
+
+952
+00:50:22,666 --> 00:50:23,916
+Why did you have to get sick?
+
+953
+00:50:24,000 --> 00:50:24,875
+Gao Zhilei.
+
+954
+00:50:24,958 --> 00:50:25,833
+Shut up.
+
+955
+00:51:10,166 --> 00:51:12,375
+{\an8}MR. ZHU, I'D LIKE A DAY OFF TOMORROW.
+
+956
+00:51:16,375 --> 00:51:18,625
+You haven't paid the mortgage
+for two months.
+
+957
+00:51:21,333 --> 00:51:22,958
+What if I sell the house?
+
+958
+00:51:24,208 --> 00:51:25,708
+I've done the math for you.
+
+959
+00:51:25,791 --> 00:51:28,625
+If you sell the house now,
+you'll lose at least three million.
+
+960
+00:51:31,458 --> 00:51:32,458
+This can't be right.
+
+961
+00:51:34,000 --> 00:51:36,833
+Even worse, we may not be able
+to sell the house.
+
+962
+00:51:39,500 --> 00:51:41,416
+Just do me a favor.
+
+963
+00:51:41,500 --> 00:51:42,500
+I approved your mortgage
+
+964
+00:51:42,583 --> 00:51:45,250
+when I started working
+at this bank 5 years ago.
+
+965
+00:51:45,333 --> 00:51:47,041
+I really want to help you.
+
+966
+00:51:47,125 --> 00:51:50,125
+If you don't pay your mortgage,
+it would affect me too.
+
+967
+00:51:50,708 --> 00:51:52,625
+Don't wait until your electricity is cut
+
+968
+00:51:52,708 --> 00:51:54,083
+and your doors all sealed up.
+
+969
+00:51:54,166 --> 00:51:56,000
+It'll be too late then.
+
+970
+00:51:56,083 --> 00:51:57,791
+I can pay a month's payment.
+
+971
+00:51:57,875 --> 00:51:58,708
+What?
+
+972
+00:51:59,958 --> 00:52:00,791
+My goodness.
+
+973
+00:52:00,875 --> 00:52:02,333
+Here's your pay stub.
+
+974
+00:52:04,208 --> 00:52:06,375
+It was too dark for me to see anything.
+
+975
+00:52:06,458 --> 00:52:07,916
+I can't ride fast.
+
+976
+00:52:08,000 --> 00:52:09,125
+Stop complaining to me.
+
+977
+00:52:09,208 --> 00:52:11,916
+When will the company
+stop mandating this insurance?
+
+978
+00:52:12,000 --> 00:52:13,916
+My heart bleeds
+when I pay for it every month.
+
+979
+00:52:14,000 --> 00:52:15,166
+You run red lights
+
+980
+00:52:15,250 --> 00:52:16,500
+and refuse to be insured?
+
+981
+00:52:16,583 --> 00:52:17,958
+You run red lights too.
+
+982
+00:52:18,666 --> 00:52:20,333
+That's why I buy insurance.
+
+983
+00:52:22,541 --> 00:52:24,375
+Big Black is ranked top again.
+
+984
+00:52:24,458 --> 00:52:25,708
+I'm no longer the last place.
+
+985
+00:52:25,791 --> 00:52:27,291
+It goes to Gao Zhilei.
+
+986
+00:52:27,375 --> 00:52:28,500
+Gao Zhilei is at the bottom.
+
+987
+00:52:28,583 --> 00:52:30,291
+The job is killing him.
+
+988
+00:52:30,375 --> 00:52:32,375
+{\an8}He was late for the order,
+
+989
+00:52:32,458 --> 00:52:33,958
+{\an8}so it got canceled
+
+990
+00:52:34,041 --> 00:52:35,666
+{\an8}and a bad review was left.
+
+991
+00:52:35,750 --> 00:52:37,291
+Double click to like.
+
+992
+00:52:37,375 --> 00:52:38,458
+Like it.
+
+993
+00:52:39,416 --> 00:52:40,708
+Gao, you're back.
+
+994
+00:52:40,791 --> 00:52:44,208
+Your video went viral.
+You should start your own account.
+
+995
+00:52:44,291 --> 00:52:45,458
+I got you a screen name too.
+
+996
+00:52:45,541 --> 00:52:47,041
+The Deflowerer.
+
+997
+00:52:47,791 --> 00:52:48,625
+Gao Zhilei.
+
+998
+00:52:50,208 --> 00:52:51,250
+Your pay stub.
+
+999
+00:52:51,333 --> 00:52:52,166
+Okay.
+
+1000
+00:52:52,791 --> 00:52:54,166
+Is Li Yu here? Li Yu?
+
+1001
+00:52:54,750 --> 00:52:55,583
+So?
+
+1002
+00:52:57,000 --> 00:52:59,208
+I spent 300 on the uniform
+and delivery box.
+
+1003
+00:52:59,291 --> 00:53:00,916
+Another 500 on renting the scooter.
+
+1004
+00:53:01,000 --> 00:53:02,750
+So, after a month of toiling,
+
+1005
+00:53:02,833 --> 00:53:04,375
+I only earned 4,000 RMB.
+
+1006
+00:53:04,458 --> 00:53:06,250
+What's the problem? Let me see.
+
+1007
+00:53:07,250 --> 00:53:08,875
+Your basic salary is 1,800.
+
+1008
+00:53:08,958 --> 00:53:11,583
+Commission for 500 orders is 3,700.
+
+1009
+00:53:12,375 --> 00:53:15,500
+You fail to get any bonuses,
+performance, timeliness and attendance.
+
+1010
+00:53:15,583 --> 00:53:16,875
+You don't have tips.
+
+1011
+00:53:17,541 --> 00:53:18,666
+300 for late delivery fines.
+
+1012
+00:53:18,750 --> 00:53:20,291
+Another 1,100 for 11 bad reviews.
+
+1013
+00:53:20,375 --> 00:53:22,208
+- It looks right to me.
+- 11 bad reviews.
+
+1014
+00:53:23,791 --> 00:53:25,291
+What about this 100?
+
+1015
+00:53:25,375 --> 00:53:27,333
+It's monthly payment for insurance.
+
+1016
+00:53:27,750 --> 00:53:30,708
+Bro, you even fail to get
+the attendance bonus of 400 RMB.
+
+1017
+00:53:30,791 --> 00:53:32,416
+I only had one day off.
+
+1018
+00:53:32,500 --> 00:53:33,333
+So…
+
+1019
+00:53:33,875 --> 00:53:35,666
+It's calculated based on backstage data.
+
+1020
+00:53:36,416 --> 00:53:38,500
+You're only good at getting bad reviews.
+
+1021
+00:53:38,583 --> 00:53:40,416
+You're dragging us down.
+
+1022
+00:53:40,500 --> 00:53:42,333
+The bad reviews aren't all my fault.
+
+1023
+00:53:43,041 --> 00:53:44,416
+I'll file an appeal.
+
+1024
+00:53:44,958 --> 00:53:46,750
+Not your fault? So it's ours?
+
+1025
+00:53:47,833 --> 00:53:49,875
+We're fairly tolerant to new riders.
+
+1026
+00:53:49,958 --> 00:53:51,041
+I'll train you again later.
+
+1027
+00:53:51,125 --> 00:53:52,625
+If it still doesn't work,
+
+1028
+00:53:53,083 --> 00:53:54,291
+you can try Rapideliver.
+
+1029
+00:54:03,291 --> 00:54:05,166
+Big Black, can I ask you something?
+
+1030
+00:54:06,958 --> 00:54:07,791
+Here.
+
+1031
+00:54:09,458 --> 00:54:10,416
+Here it is.
+
+1032
+00:54:10,500 --> 00:54:12,208
+After I take an order,
+
+1033
+00:54:12,291 --> 00:54:13,250
+can I cancel it?
+
+1034
+00:54:13,333 --> 00:54:15,416
+Nope, you can only pass it on
+to another rider.
+
+1035
+00:54:15,500 --> 00:54:17,000
+I know you don't take pass-on orders.
+
+1036
+00:54:17,083 --> 00:54:18,375
+But can you do me a favor?
+
+1037
+00:54:18,458 --> 00:54:20,375
+Can you please take his order from me?
+
+1038
+00:54:21,291 --> 00:54:22,791
+It's my old company.
+
+1039
+00:54:22,875 --> 00:54:24,208
+Help me out here.
+
+1040
+00:54:24,291 --> 00:54:25,708
+Just deliver it yourself.
+
+1041
+00:54:25,791 --> 00:54:27,208
+I don't want see my old colleagues.
+
+1042
+00:54:30,250 --> 00:54:31,666
+You feel embarrassed?
+
+1043
+00:54:33,541 --> 00:54:35,833
+We're delivery guys, not drug dealers.
+
+1044
+00:54:37,791 --> 00:54:38,833
+Deliver it yourself.
+
+1045
+00:54:48,583 --> 00:54:50,583
+Hi, I'm at the front desk.
+
+1046
+00:54:50,666 --> 00:54:52,125
+Can you come out and get it?
+
+1047
+00:55:01,666 --> 00:55:03,791
+<i>Sorry, you no longer work here.</i>
+
+1048
+00:55:06,166 --> 00:55:07,000
+Holy crap!
+
+1049
+00:55:07,666 --> 00:55:08,500
+Gao?
+
+1050
+00:55:09,208 --> 00:55:10,166
+Don't move.
+
+1051
+00:55:12,500 --> 00:55:13,791
+It's really Gao.
+
+1052
+00:55:14,291 --> 00:55:15,750
+Are you trying something new?
+
+1053
+00:55:15,833 --> 00:55:17,083
+A delivery guy?
+
+1054
+00:55:17,166 --> 00:55:18,333
+I'm trying something new.
+
+1055
+00:55:18,416 --> 00:55:19,500
+Not bad.
+
+1056
+00:55:19,583 --> 00:55:20,833
+- It's mine.
+- Okay.
+
+1057
+00:55:20,916 --> 00:55:22,875
+- Sorry, I'm late.
+- Li, don't you know him?
+
+1058
+00:55:22,958 --> 00:55:25,375
+He used to be the head
+of our department, Mr. Gao.
+
+1059
+00:55:25,458 --> 00:55:27,250
+- What did you order?
+- Two Americano.
+
+1060
+00:55:27,333 --> 00:55:28,166
+Holy crap.
+
+1061
+00:55:28,250 --> 00:55:29,541
+Come on. Tip him.
+
+1062
+00:55:29,625 --> 00:55:30,833
+Huh?
+
+1063
+00:55:30,916 --> 00:55:32,708
+- It's okay.
+- No, he should.
+
+1064
+00:55:33,416 --> 00:55:34,291
+Only two RMB?
+
+1065
+00:55:34,375 --> 00:55:35,291
+Do better, please.
+
+1066
+00:55:35,375 --> 00:55:36,541
+- All right.
+- Come on, a fiver.
+
+1067
+00:55:37,916 --> 00:55:38,916
+It's done.
+
+1068
+00:55:39,000 --> 00:55:40,250
+- Okay.
+- Thank you.
+
+1069
+00:55:40,333 --> 00:55:41,583
+- I should go.
+- Sit for a minute.
+
+1070
+00:55:41,666 --> 00:55:44,083
+- No, you guys are busy.
+- Everyone here misses you.
+
+1071
+00:55:44,166 --> 00:55:45,666
+We need your guidance.
+
+1072
+00:55:45,750 --> 00:55:47,000
+- No way.
+- Gao.
+
+1073
+00:55:49,541 --> 00:55:51,666
+Holy crap, he's a delivery guy now.
+
+1074
+00:55:52,208 --> 00:55:54,583
+- I don't get it.
+- Hasn't he started his own business?
+
+1075
+00:56:03,916 --> 00:56:05,083
+<i>You have a new order.</i>
+
+1076
+00:56:05,166 --> 00:56:06,791
+<i>Auto-accept in 10 seconds.</i>
+
+1077
+00:56:10,083 --> 00:56:11,041
+<i>Order accepted.</i>
+
+1078
+00:56:20,833 --> 00:56:21,833
+Auntie.
+
+1079
+00:56:21,916 --> 00:56:23,458
+- I'll have a fish.
+- Okay.
+
+1080
+00:56:25,750 --> 00:56:26,583
+Thanks.
+
+1081
+00:56:27,083 --> 00:56:28,083
+No problem.
+
+1082
+00:57:27,708 --> 00:57:28,666
+Hello?
+
+1083
+00:57:28,750 --> 00:57:29,833
+<i>Where's my fish?</i>
+
+1084
+00:57:31,875 --> 00:57:32,916
+The fish has escaped.
+
+1085
+00:57:33,000 --> 00:57:34,125
+<i>Where?</i>
+
+1086
+00:57:35,458 --> 00:57:37,208
+- Suzhou…
+<i>- Are you on the train?</i>
+
+1087
+00:57:37,291 --> 00:57:38,333
+Suzhou Creek.
+
+1088
+00:57:38,416 --> 00:57:39,666
+<i>Suzhou Creek?</i>
+
+1089
+00:57:39,750 --> 00:57:41,166
+<i>Are you fishing?</i>
+
+1090
+00:57:41,958 --> 00:57:43,958
+You don't have to pay
+for the order. Sorry.
+
+1091
+00:57:44,041 --> 00:57:46,541
+<i>Hello…</i>
+
+1092
+00:57:50,083 --> 00:57:52,333
+Are you okay, young man?
+
+1093
+00:57:52,416 --> 00:57:54,166
+- Do you need an ambulance?
+- Yeah.
+
+1094
+00:57:54,250 --> 00:57:55,500
+- Sugar.
+- Low blood sugar.
+
+1095
+00:57:55,583 --> 00:57:56,541
+Low blood sugar.
+
+1096
+00:57:57,125 --> 00:57:59,166
+- Give us something sweet.
+- I have Sprite.
+
+1097
+00:58:01,708 --> 00:58:03,333
+Don't choke.
+
+1098
+00:58:07,375 --> 00:58:08,375
+One more sip.
+
+1099
+00:58:08,458 --> 00:58:09,958
+<i>Operation Smile, warm up the city.</i>
+
+1100
+00:58:10,041 --> 00:58:12,833
+<i>Take a photo of your smile</i>
+<i>in 5 minutes to verify.</i>
+
+1101
+00:58:12,916 --> 00:58:14,666
+<i>Operation Smile, warm up the city.</i>
+
+1102
+00:58:14,750 --> 00:58:17,041
+<i>Take a photo of your smile</i>
+<i>in 5 minutes to verify.</i>
+
+1103
+00:58:17,125 --> 00:58:20,416
+Son, you're in no condition
+to be streaming.
+
+1104
+00:58:20,500 --> 00:58:21,708
+<i>Verification starts.</i>
+
+1105
+00:58:21,791 --> 00:58:22,750
+<i>Open your mouth.</i>
+
+1106
+00:58:24,333 --> 00:58:25,750
+<i>Shake your head.</i>
+
+1107
+00:58:27,000 --> 00:58:28,166
+{\an8}<i>Verification failed.</i>
+
+1108
+00:58:29,166 --> 00:58:30,625
+<i>Please try again.</i>
+
+1109
+00:58:31,583 --> 00:58:32,791
+<i>Verification starts.</i>
+
+1110
+00:58:34,166 --> 00:58:35,125
+<i>Open your mouth.</i>
+
+1111
+00:58:36,250 --> 00:58:37,958
+<i>Shake your head.</i>
+
+1112
+00:58:38,041 --> 00:58:39,458
+<i>Keep smiling.</i>
+
+1113
+00:58:40,916 --> 00:58:42,166
+{\an8}<i>Verification failed.</i>
+
+1114
+00:58:43,416 --> 00:58:44,875
+<i>Keep smiling.</i>
+
+1115
+00:58:46,250 --> 00:58:47,458
+{\an8}<i>Verification failed.</i>
+
+1116
+00:58:47,541 --> 00:58:48,541
+<i>Keep smiling.</i>
+
+1117
+00:58:49,166 --> 00:58:50,333
+<i>Verification failed.</i>
+
+1118
+00:58:50,416 --> 00:58:51,708
+<i>Keep smiling.</i>
+
+1119
+00:58:52,291 --> 00:58:53,458
+<i>Verification failed.</i>
+
+1120
+00:58:56,708 --> 00:58:57,958
+<i>Please try again.</i>
+
+1121
+00:59:02,708 --> 00:59:04,083
+<i>Keep smiling.</i>
+
+1122
+00:59:06,000 --> 00:59:07,083
+<i>Open your mouth.</i>
+
+1123
+00:59:08,500 --> 00:59:09,833
+<i>Shake your head.</i>
+
+1124
+00:59:10,958 --> 00:59:12,291
+<i>Keep smiling.</i>
+
+1125
+00:59:13,291 --> 00:59:15,041
+<i>Workwear not up to standard.</i>
+
+1126
+00:59:15,125 --> 00:59:16,958
+<i>Operation Smile verification failed.</i>
+
+1127
+00:59:17,041 --> 00:59:19,333
+<i>You will be suspended for three days.</i>
+
+1128
+00:59:39,458 --> 00:59:41,333
+{\an8}HAPPY BIRTHDAY TO GRANDPA
+
+1129
+00:59:44,791 --> 00:59:45,791
+{\an8}All set.
+
+1130
+00:59:45,875 --> 00:59:47,291
+{\an8}Dinner is ready.
+
+1131
+00:59:47,375 --> 00:59:50,291
+{\an8}Pour it…
+
+1132
+00:59:50,375 --> 00:59:51,833
+{\an8}That will do.
+
+1133
+00:59:54,875 --> 00:59:56,625
+{\an8}The other day,
+
+1134
+00:59:57,583 --> 00:59:59,291
+{\an8}it was…
+
+1135
+00:59:59,833 --> 01:00:01,583
+{\an8}my bad.
+
+1136
+01:00:04,041 --> 01:00:05,000
+{\an8}I'm sorry.
+
+1137
+01:00:07,250 --> 01:00:08,541
+{\an8}I'm sorry.
+
+1138
+01:00:24,500 --> 01:00:25,458
+- Oh, no.
+- Oh, no.
+
+1139
+01:00:28,708 --> 01:00:30,083
+I'm sorry.
+
+1140
+01:00:30,166 --> 01:00:33,291
+I've wet myself again.
+
+1141
+01:00:33,375 --> 01:00:36,750
+I can't even feel it now.
+
+1142
+01:00:38,250 --> 01:00:39,166
+It's okay.
+
+1143
+01:00:46,833 --> 01:00:48,583
+- It's okay.
+- It's fine.
+
+1144
+01:00:49,375 --> 01:00:50,500
+It's okay.
+
+1145
+01:00:55,083 --> 01:00:56,208
+Dad.
+
+1146
+01:00:56,291 --> 01:00:57,958
+I talked to a rehab doctor.
+
+1147
+01:00:58,041 --> 01:01:00,416
+He said it'd take four months to recover.
+
+1148
+01:01:00,500 --> 01:01:01,791
+Don't worry.
+
+1149
+01:01:01,875 --> 01:01:03,458
+You need the treatment.
+
+1150
+01:01:22,125 --> 01:01:23,125
+<i>My wife.</i>
+
+1151
+01:01:23,916 --> 01:01:24,916
+<i>Zhilei.</i>
+
+1152
+01:01:25,583 --> 01:01:26,791
+<i>I'm sorry.</i>
+
+1153
+01:01:27,791 --> 01:01:30,458
+<i>The day before,</i>
+<i>the rehabilitation center told me that…</i>
+
+1154
+01:01:31,541 --> 01:01:33,041
+<i>I might have to spend</i>
+
+1155
+01:01:33,125 --> 01:01:35,666
+<i>the rest of my life in a wheelchair.</i>
+
+1156
+01:01:41,416 --> 01:01:43,541
+<i>I don't think you should…</i>
+
+1157
+01:01:44,333 --> 01:01:45,750
+<i>waste any more money.</i>
+
+1158
+01:01:48,125 --> 01:01:50,416
+<i>Zhilei is having a rough time lately.</i>
+
+1159
+01:01:51,000 --> 01:01:53,625
+<i>My condition is getting worse too.</i>
+
+1160
+01:01:56,625 --> 01:01:58,166
+<i>I've been thinking</i>
+
+1161
+01:01:58,250 --> 01:01:59,916
+<i>I can't help you much,</i>
+
+1162
+01:02:00,333 --> 01:02:01,541
+<i>but at least,</i>
+
+1163
+01:02:01,625 --> 01:02:03,166
+<i>I can stop being a burden.</i>
+
+1164
+01:02:04,791 --> 01:02:05,750
+<i>So…</i>
+
+1165
+01:02:06,666 --> 01:02:08,250
+<i>it'd be a wise choice</i>
+
+1166
+01:02:08,791 --> 01:02:10,333
+<i>for me to go now.</i>
+
+1167
+01:02:13,041 --> 01:02:14,833
+<i>To live a full life</i>
+
+1168
+01:02:14,916 --> 01:02:16,958
+<i>is not easy for anyone.</i>
+
+1169
+01:02:18,458 --> 01:02:21,583
+<i>I used to support the whole family.</i>
+
+1170
+01:02:22,666 --> 01:02:23,583
+<i>Right now,</i>
+
+1171
+01:02:24,083 --> 01:02:26,083
+<i>it's Zhilei's crucial moment.</i>
+
+1172
+01:02:27,416 --> 01:02:28,750
+<i>It will be tough,</i>
+
+1173
+01:02:29,541 --> 01:02:31,708
+<i>but you must…</i>
+
+1174
+01:02:32,791 --> 01:02:34,583
+<i>take good care of Jiajia.</i>
+
+1175
+01:02:37,500 --> 01:02:38,833
+<i>I believe that…</i>
+
+1176
+01:02:40,000 --> 01:02:41,458
+<i>your life…</i>
+
+1177
+01:02:42,791 --> 01:02:43,875
+<i>will eventually…</i>
+
+1178
+01:02:44,958 --> 01:02:46,750
+<i>get better and better.</i>
+
+1179
+01:02:54,125 --> 01:02:55,000
+Dad.
+
+1180
+01:02:55,458 --> 01:02:57,791
+Our family has hit
+
+1181
+01:02:58,666 --> 01:03:00,166
+rock bottom.
+
+1182
+01:03:01,750 --> 01:03:04,625
+But it's nothing
+compared to your youth.
+
+1183
+01:03:06,666 --> 01:03:09,000
+At least we can still have braised pork.
+
+1184
+01:03:11,625 --> 01:03:12,666
+Don't you worry.
+
+1185
+01:03:13,500 --> 01:03:15,875
+I can do what you did in your youth.
+
+1186
+01:03:17,125 --> 01:03:18,708
+I'll fight for our family
+
+1187
+01:03:19,708 --> 01:03:20,583
+and work hard.
+
+1188
+01:03:22,458 --> 01:03:23,958
+Dad, believe me.
+
+1189
+01:03:25,166 --> 01:03:27,500
+If you give me a chance, I'll prove it.
+
+1190
+01:03:29,041 --> 01:03:30,166
+If however,
+
+1191
+01:03:30,875 --> 01:03:32,083
+I can't pull it off,
+
+1192
+01:03:33,416 --> 01:03:35,291
+I'll go with you, okay?
+
+1193
+01:03:59,333 --> 01:04:00,375
+Grandpa.
+
+1194
+01:04:01,625 --> 01:04:04,791
+You haven't cut the birthday cake yet.
+
+1195
+01:05:01,083 --> 01:05:03,291
+Big Black, I'd like your opinion.
+
+1196
+01:05:04,083 --> 01:05:05,416
+Aren't you suspended?
+
+1197
+01:05:06,875 --> 01:05:08,916
+I want to get better and you're the best.
+
+1198
+01:05:09,000 --> 01:05:10,375
+Let me learn from you.
+
+1199
+01:05:11,791 --> 01:05:13,291
+HOT PATCH FOR BELLY
+
+1200
+01:05:14,166 --> 01:05:15,208
+What are these?
+
+1201
+01:05:15,291 --> 01:05:17,416
+These are hot patches
+for your stomach pain.
+
+1202
+01:05:17,500 --> 01:05:19,125
+Put one on your belly for the pain.
+
+1203
+01:05:20,750 --> 01:05:21,583
+Thanks.
+
+1204
+01:05:23,375 --> 01:05:24,833
+I won't bother you then.
+
+1205
+01:05:26,208 --> 01:05:27,208
+Hey!
+
+1206
+01:05:29,125 --> 01:05:30,750
+How many orders did you made last month?
+
+1207
+01:05:30,833 --> 01:05:31,708
+500.
+
+1208
+01:05:31,791 --> 01:05:32,625
+So few?
+
+1209
+01:05:33,166 --> 01:05:35,333
+- 11 bad reviews and 2 complaints.
+- So many?
+
+1210
+01:05:35,416 --> 01:05:36,958
+How did you do it?
+
+1211
+01:05:37,041 --> 01:05:37,958
+I just did.
+
+1212
+01:05:38,541 --> 01:05:39,416
+I'm sorry.
+
+1213
+01:05:46,750 --> 01:05:48,750
+You know why you make less orders?
+
+1214
+01:05:49,625 --> 01:05:51,083
+You've been taking lousy orders.
+
+1215
+01:05:51,875 --> 01:05:53,958
+Why can you only take lousy orders?
+
+1216
+01:05:55,500 --> 01:05:56,958
+Because you're a lousy rider.
+
+1217
+01:05:57,041 --> 01:05:58,083
+You got that?
+
+1218
+01:05:58,166 --> 01:05:59,583
+Lousy rider.
+
+1219
+01:06:01,500 --> 01:06:02,875
+<i>A lousy order is one</i>
+
+1220
+01:06:02,958 --> 01:06:04,333
+with longer distance and less pay.
+
+1221
+01:06:04,416 --> 01:06:05,708
+It's harder to deliver.
+
+1222
+01:06:05,791 --> 01:06:07,333
+How do I avoid them?
+
+1223
+01:06:07,416 --> 01:06:08,666
+You need to level up.
+
+1224
+01:06:08,750 --> 01:06:09,916
+The system categorizes riders
+
+1225
+01:06:10,000 --> 01:06:13,416
+into 5 classes, bronze, silver,
+gold, diamond and champion.
+
+1226
+01:06:13,500 --> 01:06:15,541
+{\an8}The higher the class,
+the more pay per order.
+
+1227
+01:06:15,625 --> 01:06:17,416
+{\an8}You'll also get more orders.
+
+1228
+01:06:18,625 --> 01:06:20,666
+{\an8}If you want to earn more,
+you need to be faster.
+
+1229
+01:06:21,250 --> 01:06:25,083
+You must learn how to organize
+your orders within seconds.
+
+1230
+01:06:25,166 --> 01:06:27,500
+Prioritize some orders over the others
+
+1231
+01:06:27,583 --> 01:06:29,291
+and work out your logistics.
+
+1232
+01:06:29,375 --> 01:06:30,208
+Got it?
+
+1233
+01:06:30,291 --> 01:06:32,208
+The platform only gives you
+the default route.
+
+1234
+01:06:32,291 --> 01:06:34,166
+<i>I don't take it normally.</i>
+
+1235
+01:06:34,250 --> 01:06:38,083
+<i>You must find the shortcut</i>
+<i>between the pickup and the customer.</i>
+
+1236
+01:06:38,166 --> 01:06:40,583
+<i>Organize your orders based on priority</i>
+
+1237
+01:06:40,666 --> 01:06:42,958
+<i>and make deliveries accordingly.</i>
+
+1238
+01:06:45,250 --> 01:06:46,416
+- Delivery.
+- Okay.
+
+1239
+01:06:46,500 --> 01:06:47,791
+- Thank you.
+- Enjoy it.
+
+1240
+01:06:51,000 --> 01:06:53,250
+You need to know the neighborhood.
+
+1241
+01:06:53,333 --> 01:06:54,375
+Is there a shortcut?
+
+1242
+01:06:54,458 --> 01:06:56,458
+<i>Every mall, residential area,</i>
+
+1243
+01:06:56,541 --> 01:06:58,500
+<i>office building and apartment complex.</i>
+
+1244
+01:06:58,583 --> 01:07:01,041
+<i>Each has</i>
+<i>its own food delivery shelf or locker.</i>
+
+1245
+01:07:02,500 --> 01:07:04,625
+<i>House numbers in the alleys</i>
+<i>can be unsystematic.</i>
+
+1246
+01:07:04,708 --> 01:07:07,000
+<i>You can only memorize them</i>
+<i>by visiting them.</i>
+
+1247
+01:07:08,375 --> 01:07:11,250
+<i>Hospitals and schools</i>
+<i>are extremely challenging.</i>
+
+1248
+01:07:11,333 --> 01:07:13,000
+{\an8}<i>I don't normally take those orders.</i>
+
+1249
+01:07:13,083 --> 01:07:13,916
+Stingie.
+
+1250
+01:07:14,583 --> 01:07:17,000
+I've got this used bike.
+It's usually by the south gate.
+
+1251
+01:07:17,083 --> 01:07:19,625
+You can ride it for deliveries on campus.
+
+1252
+01:07:19,708 --> 01:07:20,541
+How much?
+
+1253
+01:07:20,625 --> 01:07:21,541
+Nothing.
+
+1254
+01:07:23,125 --> 01:07:25,166
+Can I have it when you quit?
+
+1255
+01:07:25,250 --> 01:07:26,083
+Sure.
+
+1256
+01:07:27,875 --> 01:07:30,541
+I'll show you how to suspend an order
+when I have time.
+
+1257
+01:07:31,958 --> 01:07:35,000
+You need two sets of batteries,
+one as backup.
+
+1258
+01:07:35,083 --> 01:07:36,458
+No delivery is too far.
+
+1259
+01:07:40,166 --> 01:07:42,000
+I work for 14 hours a day.
+
+1260
+01:07:42,083 --> 01:07:44,000
+Delivery is a race against time.
+
+1261
+01:07:44,083 --> 01:07:45,958
+<i>We ride through wind and rain,</i>
+<i>day and night.</i>
+
+1262
+01:07:46,041 --> 01:07:47,416
+If you want faster pickups,
+
+1263
+01:07:47,500 --> 01:07:49,625
+you need a good relationship
+with the restaurants.
+
+1264
+01:07:49,708 --> 01:07:52,375
+- Boss, try this tea.
+- You're too kind.
+
+1265
+01:07:53,291 --> 01:07:54,291
+I've got this.
+
+1266
+01:07:56,333 --> 01:07:57,375
+- Zhilei.
+- Hi.
+
+1267
+01:07:58,333 --> 01:08:00,041
+Thanks, I'll confirm pickup.
+
+1268
+01:08:03,500 --> 01:08:04,583
+Xiaomin, here.
+
+1269
+01:08:04,666 --> 01:08:05,750
+Coffee for you.
+
+1270
+01:08:05,833 --> 01:08:07,750
+<i>Being a delivery rider</i>
+<i>is all about attitude.</i>
+
+1271
+01:08:07,833 --> 01:08:09,750
+You may have shed off your elite pride,
+
+1272
+01:08:09,833 --> 01:08:12,125
+but you're still not
+the real working class.
+
+1273
+01:08:12,208 --> 01:08:15,375
+You think you sit in the limo,
+but in fact you're the chauffeur.
+
+1274
+01:08:16,083 --> 01:08:17,458
+Isn't he a rider?
+
+1275
+01:08:18,291 --> 01:08:20,000
+Security guards at the malls
+
+1276
+01:08:20,083 --> 01:08:20,958
+are also key.
+
+1277
+01:08:21,041 --> 01:08:22,166
+Hello, ma'am.
+
+1278
+01:08:22,250 --> 01:08:23,541
+- Two packs of cigarettes.
+- Sure.
+
+1279
+01:08:23,625 --> 01:08:24,958
+- Hi.
+- You can't come through here.
+
+1280
+01:08:25,041 --> 01:08:26,291
+For your trouble.
+
+1281
+01:08:26,375 --> 01:08:27,541
+Bye.
+
+1282
+01:08:27,625 --> 01:08:28,708
+Ma'am, for your trouble.
+
+1283
+01:08:30,000 --> 01:08:31,541
+- I'm in.
+- Blooming Arse-ho.
+
+1284
+01:08:31,625 --> 01:08:32,708
+Enjoy your meal.
+
+1285
+01:08:33,708 --> 01:08:35,583
+<i>Congratulations! You've got a tip.</i>
+
+1286
+01:08:35,666 --> 01:08:36,625
+<i>Keep it going.</i>
+
+1287
+01:08:36,708 --> 01:08:40,208
+Always smile at the customers,
+be they looking at you or cursing at you.
+
+1288
+01:08:40,291 --> 01:08:41,208
+As the saying goes,
+
+1289
+01:08:41,291 --> 01:08:43,083
+"One does not hit a smiling face."
+
+1290
+01:08:43,166 --> 01:08:44,333
+Enjoy your meal.
+
+1291
+01:08:44,416 --> 01:08:45,833
+Hi, Foodie 21 pickup.
+
+1292
+01:08:45,916 --> 01:08:47,000
+I wish you a long life.
+
+1293
+01:08:47,083 --> 01:08:48,083
+Have a swift recovery.
+
+1294
+01:08:48,166 --> 01:08:49,166
+Enjoy your meal.
+
+1295
+01:08:49,250 --> 01:08:50,958
+Please give me a good review.
+
+1296
+01:08:51,708 --> 01:08:52,708
+Thank you.
+
+1297
+01:08:53,458 --> 01:08:54,875
+Enjoy your meal. I mean…
+
+1298
+01:08:54,958 --> 01:08:55,833
+Happy lovemaking.
+
+1299
+01:08:57,000 --> 01:08:58,166
+Should I take out the trash?
+
+1300
+01:08:58,250 --> 01:08:59,833
+- I'll take out the trash for you.
+- No.
+
+1301
+01:08:59,916 --> 01:09:02,333
+- It's fine.
+- Thanks, I'll give you a like.
+
+1302
+01:09:02,416 --> 01:09:04,833
+Happy birthday…
+
+1303
+01:09:04,916 --> 01:09:06,333
+- Whose birthday?
+- Me.
+
+1304
+01:09:06,416 --> 01:09:07,458
+Happy birthday.
+
+1305
+01:09:07,541 --> 01:09:09,666
+You deserve a big bear hug.
+
+1306
+01:09:09,750 --> 01:09:12,083
+Even the hardest order
+must be delivered on time.
+
+1307
+01:09:12,166 --> 01:09:14,791
+We working people
+must look out for each other.
+
+1308
+01:09:14,875 --> 01:09:15,708
+Enjoy it.
+
+1309
+01:09:15,791 --> 01:09:17,750
+- Thank you for your hard work.
+- Thanks.
+
+1310
+01:09:18,666 --> 01:09:20,833
+I treat every customers as my children.
+
+1311
+01:09:20,916 --> 01:09:23,416
+If I don't deliver food to them on time,
+
+1312
+01:09:23,500 --> 01:09:26,500
+they'll starve to death.
+
+1313
+01:09:28,000 --> 01:09:30,000
+I love you!
+
+1314
+01:09:52,875 --> 01:09:53,875
+Jump.
+
+1315
+01:09:54,458 --> 01:09:55,291
+Go ahead.
+
+1316
+01:09:55,375 --> 01:09:56,333
+Are you stuck?
+
+1317
+01:10:00,166 --> 01:10:02,041
+- I haven't received it.
+- I transferred it.
+
+1318
+01:10:02,125 --> 01:10:04,333
+I didn't even save money for food.
+
+1319
+01:10:04,416 --> 01:10:05,333
+Got it now.
+
+1320
+01:10:05,416 --> 01:10:07,291
+- Are you really a delivery rider?
+- Yeah.
+
+1321
+01:10:08,125 --> 01:10:08,958
+So cool.
+
+1322
+01:10:12,000 --> 01:10:13,166
+Do you see me as a human?
+
+1323
+01:10:13,250 --> 01:10:14,875
+- How do I not?
+- Do you see me as a human?
+
+1324
+01:10:14,958 --> 01:10:16,458
+Do you see me as a human?
+
+1325
+01:10:22,166 --> 01:10:24,083
+Hi, Mr. Sun Fendou.
+
+1326
+01:10:24,166 --> 01:10:26,125
+Your Foodie Delivery has arrived.
+
+1327
+01:10:29,500 --> 01:10:30,708
+Enjoy your meal.
+
+1328
+01:10:32,250 --> 01:10:33,583
+Please give me a good review.
+
+1329
+01:10:49,500 --> 01:10:50,666
+In a minute.
+
+1330
+01:10:51,166 --> 01:10:53,416
+Your healthy congee is on the shelf.
+
+1331
+01:11:01,791 --> 01:11:02,791
+Food delivery.
+
+1332
+01:11:02,875 --> 01:11:04,000
+- Enjoy it.
+- Thanks.
+
+1333
+01:11:19,708 --> 01:11:20,708
+TOP RIDER RANKING
+
+1334
+01:11:24,958 --> 01:11:25,791
+{\an8}24 GAO ZHILEI
+
+1335
+01:11:27,125 --> 01:11:28,125
+GOLD RIDERS
+
+1336
+01:11:31,125 --> 01:11:31,958
+ROUTE MASTER
+
+1337
+01:11:39,791 --> 01:11:41,833
+ROUTE MASTER
+
+1338
+01:11:50,500 --> 01:11:51,833
+Hey! Stingie.
+
+1339
+01:11:51,916 --> 01:11:53,125
+Hi! How did it go today?
+
+1340
+01:11:53,208 --> 01:11:54,458
+Not bad.
+
+1341
+01:11:54,541 --> 01:11:56,000
+A big order for 30 people.
+
+1342
+01:11:56,083 --> 01:11:58,333
+It took forever to prepare
+and almost caused delay.
+
+1343
+01:11:58,416 --> 01:11:59,666
+- Gotta go.
+- All right.
+
+1344
+01:12:15,416 --> 01:12:16,625
+- Stingie.
+- Holy crap.
+
+1345
+01:12:17,291 --> 01:12:18,333
+Are you injured?
+
+1346
+01:12:18,416 --> 01:12:19,625
+You're bleeding.
+
+1347
+01:12:19,708 --> 01:12:22,291
+- Let me take you to the hospital.
+- Be careful.
+
+1348
+01:12:22,375 --> 01:12:23,583
+- My phone.
+- What are you doing?
+
+1349
+01:12:24,416 --> 01:12:25,333
+I'm sorry.
+
+1350
+01:12:25,416 --> 01:12:27,333
+<i>- When will my food arrive?</i>
+- I'm on my way.
+
+1351
+01:12:27,416 --> 01:12:29,333
+- Hey…
+- Be there in a minute.
+
+1352
+01:12:29,416 --> 01:12:30,916
+- I'll deliver it soon.
+- Leave it.
+
+1353
+01:12:31,000 --> 01:12:32,375
+- Stingie…
+- What?
+
+1354
+01:12:32,458 --> 01:12:33,416
+Stingie!
+
+1355
+01:12:33,500 --> 01:12:35,500
+I'll make the delivery for you.
+
+1356
+01:12:35,583 --> 01:12:37,041
+- Get him to the hospital.
+- Okay.
+
+1357
+01:12:37,125 --> 01:12:38,791
+- I'm sorry.
+- It's right around the corner.
+
+1358
+01:12:38,875 --> 01:12:40,583
+- Hurry.
+- I've got this.
+
+1359
+01:12:40,666 --> 01:12:41,750
+- Don't run away.
+- I won't.
+
+1360
+01:12:41,833 --> 01:12:42,791
+I've got your plate.
+
+1361
+01:12:42,875 --> 01:12:44,375
+- You must deliver it.
+- I will.
+
+1362
+01:12:44,458 --> 01:12:45,333
+Don't worry.
+
+1363
+01:12:45,416 --> 01:12:47,250
+I'll collect the scooter parts.
+
+1364
+01:12:56,166 --> 01:12:57,500
+Stingie!
+
+1365
+01:12:57,583 --> 01:12:58,833
+Why are you running away?
+
+1366
+01:12:58,916 --> 01:13:00,750
+Did you make the delivery? Any complaint?
+
+1367
+01:13:00,833 --> 01:13:02,250
+They were nice when I got there.
+
+1368
+01:13:02,333 --> 01:13:03,250
+Where's my scooter?
+
+1369
+01:13:03,333 --> 01:13:04,833
+I took it to a garage.
+
+1370
+01:13:05,416 --> 01:13:06,250
+My phone.
+
+1371
+01:13:07,291 --> 01:13:08,541
+No. Wait.
+
+1372
+01:13:08,625 --> 01:13:10,750
+You haven't been patched up yet. Go back.
+
+1373
+01:13:10,833 --> 01:13:11,916
+Who needs bandages?
+
+1374
+01:13:12,000 --> 01:13:13,458
+I'll wrap it with some tape.
+
+1375
+01:13:13,541 --> 01:13:15,333
+Why should I pay others to do it?
+
+1376
+01:13:15,416 --> 01:13:17,625
+- You lost your shoes.
+- It's fine.
+
+1377
+01:13:18,250 --> 01:13:20,125
+- Did the young man pay?
+- Yeah.
+
+1378
+01:13:20,208 --> 01:13:21,458
+How much?
+
+1379
+01:13:21,541 --> 01:13:22,833
+15,000.
+
+1380
+01:13:22,916 --> 01:13:24,333
+He agreed immediately.
+
+1381
+01:13:24,416 --> 01:13:26,666
+Crap, I should've asked for 20,000.
+
+1382
+01:13:37,916 --> 01:13:39,541
+- Not there yet?
+- Keep going.
+
+1383
+01:13:46,166 --> 01:13:47,916
+My mansion is right there.
+
+1384
+01:13:48,958 --> 01:13:50,125
+Single-family home.
+
+1385
+01:13:50,833 --> 01:13:52,541
+The one with lights on.
+
+1386
+01:13:53,083 --> 01:13:54,291
+Here.
+
+1387
+01:13:54,375 --> 01:13:55,833
+You call this a mansion?
+
+1388
+01:13:58,375 --> 01:13:59,208
+I'm home.
+
+1389
+01:13:59,791 --> 01:14:00,625
+Daddy.
+
+1390
+01:14:01,458 --> 01:14:02,458
+Why are you home now?
+
+1391
+01:14:02,541 --> 01:14:03,875
+I'm off the clock, so I'm home.
+
+1392
+01:14:03,958 --> 01:14:05,625
+Gao, have a seat. Wherever you want.
+
+1393
+01:14:08,375 --> 01:14:09,208
+Sit.
+
+1394
+01:14:09,791 --> 01:14:11,125
+Yangyang.
+
+1395
+01:14:11,208 --> 01:14:13,458
+Yangyang, greet our guest.
+
+1396
+01:14:13,541 --> 01:14:14,375
+Uncle.
+
+1397
+01:14:15,708 --> 01:14:17,000
+Wei, show some manners.
+
+1398
+01:14:17,083 --> 01:14:18,583
+- Hello, Uncle.
+- Hi.
+
+1399
+01:14:19,250 --> 01:14:20,416
+- Sanyuan.
+- Yes?
+
+1400
+01:14:20,500 --> 01:14:23,291
+This is Gao from work.
+He did me a big favor today.
+
+1401
+01:14:23,375 --> 01:14:24,250
+My wife, Sanyuan.
+
+1402
+01:14:24,333 --> 01:14:25,625
+- Sit, please.
+- Okay.
+
+1403
+01:14:26,375 --> 01:14:27,500
+What happened to your face?
+
+1404
+01:14:27,583 --> 01:14:28,416
+Nothing.
+
+1405
+01:14:29,208 --> 01:14:30,333
+Just bumped into a car.
+
+1406
+01:14:30,416 --> 01:14:31,458
+I'm fine.
+
+1407
+01:14:31,541 --> 01:14:33,291
+- Your leg is injured?
+- It's nothing.
+
+1408
+01:14:33,375 --> 01:14:34,583
+I said I'm fine.
+
+1409
+01:14:34,666 --> 01:14:36,375
+Just a fender bender. I'm okay.
+
+1410
+01:14:36,458 --> 01:14:38,375
+I got some masks for Yangyang
+from the hospital.
+
+1411
+01:14:38,458 --> 01:14:39,541
+Free.
+
+1412
+01:14:40,458 --> 01:14:41,875
+Have some soup.
+
+1413
+01:14:41,958 --> 01:14:43,833
+The place is small,
+
+1414
+01:14:43,916 --> 01:14:45,125
+but it's cozy.
+
+1415
+01:14:45,208 --> 01:14:46,166
+Let me tell you.
+
+1416
+01:14:48,250 --> 01:14:49,083
+What?
+
+1417
+01:14:49,166 --> 01:14:50,625
+How did you bump into someone again?
+
+1418
+01:14:50,708 --> 01:14:51,625
+Not on purpose.
+
+1419
+01:14:51,708 --> 01:14:53,166
+What do you think I am?
+
+1420
+01:14:53,250 --> 01:14:54,208
+I got compensation.
+
+1421
+01:14:55,166 --> 01:14:56,125
+15,000.
+
+1422
+01:14:56,875 --> 01:14:59,416
+- One month earlier…
+- 15,000!
+
+1423
+01:14:59,500 --> 01:15:01,166
+How much is your life worth?
+
+1424
+01:15:01,250 --> 01:15:02,125
+Don't start with me.
+
+1425
+01:15:02,208 --> 01:15:04,583
+I got enough money for the surgery
+one month earlier.
+
+1426
+01:15:04,666 --> 01:15:05,541
+Am I not awesome?
+
+1427
+01:15:05,625 --> 01:15:06,833
+I didn't plan it,
+
+1428
+01:15:06,916 --> 01:15:08,833
+but sometimes a guy just gets lucky.
+
+1429
+01:15:10,291 --> 01:15:11,625
+Give me a smile.
+
+1430
+01:15:14,791 --> 01:15:15,833
+The kid…
+
+1431
+01:15:15,916 --> 01:15:16,791
+Leukemia.
+
+1432
+01:15:18,708 --> 01:15:19,583
+It's okay.
+
+1433
+01:15:19,666 --> 01:15:21,333
+We have enough money now.
+
+1434
+01:15:21,416 --> 01:15:22,625
+The bone marrow is a match.
+
+1435
+01:15:22,708 --> 01:15:25,166
+You'll get a surgery
+when there's vacancy at the hospital.
+
+1436
+01:15:25,250 --> 01:15:26,166
+Daddy, look.
+
+1437
+01:15:26,250 --> 01:15:27,916
+- What?
+- I cut out this horse.
+
+1438
+01:15:28,000 --> 01:15:29,333
+What is this?
+
+1439
+01:15:31,000 --> 01:15:32,291
+You made this?
+
+1440
+01:15:32,375 --> 01:15:33,458
+Attagirl.
+
+1441
+01:15:35,125 --> 01:15:36,208
+Make another one for Daddy.
+
+1442
+01:15:36,291 --> 01:15:37,541
+A horse with two horns.
+
+1443
+01:15:37,625 --> 01:15:39,708
+I'll stick both on my scooter.
+
+1444
+01:15:39,791 --> 01:15:40,958
+Okay?
+
+1445
+01:15:41,041 --> 01:15:42,666
+Pick one. What other colors are there?
+
+1446
+01:15:45,541 --> 01:15:47,208
+A yellow flower for you.
+
+1447
+01:15:47,291 --> 01:15:49,000
+Thanks for the ride home.
+
+1448
+01:15:51,208 --> 01:15:52,625
+Why are you being so nice to me?
+
+1449
+01:15:53,750 --> 01:15:56,291
+You let me use your bike for free.
+
+1450
+01:15:56,375 --> 01:15:57,625
+I once threw coffee at you.
+
+1451
+01:15:57,708 --> 01:15:59,583
+And I spit at you, come on.
+
+1452
+01:15:59,666 --> 01:16:01,000
+I gave you a bad review.
+
+1453
+01:16:01,791 --> 01:16:04,083
+And you helped me deliver a big order.
+
+1454
+01:16:06,166 --> 01:16:07,416
+Guess we're even now.
+
+1455
+01:16:07,958 --> 01:16:08,958
+We're even.
+
+1456
+01:16:24,625 --> 01:16:27,083
+I've been thinking
+
+1457
+01:16:28,833 --> 01:16:30,416
+the wheel…
+
+1458
+01:16:32,708 --> 01:16:34,000
+and my head…
+
+1459
+01:16:36,708 --> 01:16:37,791
+were just an inch apart.
+
+1460
+01:16:37,875 --> 01:16:39,125
+Such a narrow escape.
+
+1461
+01:16:46,333 --> 01:16:48,041
+If I hadn't made it,
+
+1462
+01:16:48,125 --> 01:16:49,791
+it'd have been a relief for me.
+
+1463
+01:16:51,625 --> 01:16:53,458
+But what will happen to my family?
+
+1464
+01:16:58,458 --> 01:16:59,291
+Damn it.
+
+1465
+01:17:06,541 --> 01:17:07,541
+It's okay.
+
+1466
+01:17:24,208 --> 01:17:25,166
+Bye.
+
+1467
+01:17:25,250 --> 01:17:26,250
+Take care.
+
+1468
+01:18:01,333 --> 01:18:03,000
+Your beard stings.
+
+1469
+01:18:03,083 --> 01:18:04,458
+Did you drink?
+
+1470
+01:18:04,541 --> 01:18:05,916
+I didn't.
+
+1471
+01:18:06,000 --> 01:18:07,916
+I just wanted to give Jiajia a kiss
+
+1472
+01:18:08,000 --> 01:18:09,333
+and give you a hug.
+
+1473
+01:18:11,041 --> 01:18:12,125
+Look.
+
+1474
+01:18:12,208 --> 01:18:14,250
+Daddy picked these wild flowers for you.
+
+1475
+01:18:15,375 --> 01:18:16,208
+Are they pretty?
+
+1476
+01:18:16,750 --> 01:18:17,791
+Yeah.
+
+1477
+01:18:20,250 --> 01:18:21,250
+I'm sorry.
+
+1478
+01:18:21,333 --> 01:18:23,666
+I didn't get you in Liu Yunong's class.
+
+1479
+01:18:24,541 --> 01:18:25,625
+It's okay.
+
+1480
+01:18:26,333 --> 01:18:28,166
+I can play with her on Sundays.
+
+1481
+01:18:30,625 --> 01:18:32,083
+Daddy will work harder.
+
+1482
+01:18:32,166 --> 01:18:33,041
+Daddy.
+
+1483
+01:18:33,666 --> 01:18:35,625
+You've worked hard enough.
+
+1484
+01:18:40,000 --> 01:18:42,083
+Then I must keep it up
+
+1485
+01:18:42,166 --> 01:18:43,250
+and work even harder.
+
+1486
+01:18:43,333 --> 01:18:44,666
+I'll become a Champion Rider.
+
+1487
+01:18:45,250 --> 01:18:47,000
+<i>When your dad becomes the champion,</i>
+
+1488
+01:18:47,083 --> 01:18:49,375
+<i>I will perform a ballet dance</i>
+<i>for you and him.</i>
+
+1489
+01:18:50,458 --> 01:18:52,208
+<i>When Mommy dances, she will be a swan.</i>
+
+1490
+01:18:52,291 --> 01:18:53,208
+<i>When I do,</i>
+
+1491
+01:18:53,291 --> 01:18:54,375
+<i>I'm like a clumsy duck.</i>
+
+1492
+01:19:03,750 --> 01:19:06,333
+Dad, why are you up so early?
+
+1493
+01:19:06,416 --> 01:19:08,083
+Your dad bought a watch.
+
+1494
+01:19:08,166 --> 01:19:12,083
+It rings every two hours during the day
+to remind him to go to the bathroom.
+
+1495
+01:19:13,375 --> 01:19:15,791
+Do you know how long
+
+1496
+01:19:15,875 --> 01:19:17,458
+it's been since I last wet the bed?
+
+1497
+01:19:18,000 --> 01:19:19,041
+How long?
+
+1498
+01:19:19,125 --> 01:19:20,333
+Ten days now.
+
+1499
+01:19:20,416 --> 01:19:21,541
+That is impressive.
+
+1500
+01:19:22,375 --> 01:19:24,958
+I'm not going
+to the rehabilitation center,
+
+1501
+01:19:25,041 --> 01:19:28,416
+but I'll do the rehabilitation myself.
+
+1502
+01:19:28,500 --> 01:19:32,041
+I will get back on my feet again.
+
+1503
+01:19:32,125 --> 01:19:34,125
+- Zhilei, don't worry.
+- I'm not worried.
+
+1504
+01:19:34,833 --> 01:19:35,958
+I'm not worried.
+
+1505
+01:19:38,416 --> 01:19:39,791
+Your old man
+
+1506
+01:19:39,875 --> 01:19:40,791
+is incredible.
+
+1507
+01:19:40,875 --> 01:19:42,250
+He's not quitting.
+
+1508
+01:19:42,333 --> 01:19:45,041
+I'll reopen the convenient store.
+
+1509
+01:19:45,125 --> 01:19:47,333
+Our whole family will fight together.
+
+1510
+01:19:59,041 --> 01:20:00,166
+Attention, everybody.
+
+1511
+01:20:00,250 --> 01:20:03,000
+The more your orders,
+the bigger your bonus.
+
+1512
+01:20:03,083 --> 01:20:05,458
+The Champion Rider gets 2,000 per month.
+
+1513
+01:20:05,541 --> 01:20:06,791
+Work harder, everyone.
+
+1514
+01:20:06,875 --> 01:20:08,041
+Once you get started…
+
+1515
+01:20:08,125 --> 01:20:08,958
+Sir.
+
+1516
+01:20:10,458 --> 01:20:12,416
+I have an announcement to make.
+
+1517
+01:20:12,500 --> 01:20:14,125
+I created this WeChat app.
+
+1518
+01:20:14,208 --> 01:20:16,166
+It's called the Route Master.
+
+1519
+01:20:16,250 --> 01:20:18,541
+I've put in all the residential areas,
+
+1520
+01:20:18,625 --> 01:20:20,083
+schools, hospitals, shopping malls,
+
+1521
+01:20:20,166 --> 01:20:21,791
+house numbers, apartment numbers,
+
+1522
+01:20:21,875 --> 01:20:23,583
+all the delivery lockers and boxes
+
+1523
+01:20:23,666 --> 01:20:25,125
+and marked them in the app.
+
+1524
+01:20:25,208 --> 01:20:26,916
+Deliveries and pickups will be easier.
+
+1525
+01:20:27,000 --> 01:20:28,333
+Let me scan it.
+
+1526
+01:20:28,416 --> 01:20:31,291
+Scan the QR code with your WeChat
+and you're in.
+
+1527
+01:20:31,375 --> 01:20:33,708
+The more data we collect,
+the more efficient it'll become.
+
+1528
+01:20:34,416 --> 01:20:35,500
+The more data we collect…
+
+1529
+01:20:48,208 --> 01:20:49,916
+GOOFISH
+
+1530
+01:21:06,708 --> 01:21:08,125
+And he keeps counting.
+
+1531
+01:21:08,708 --> 01:21:10,083
+Package pickup service.
+
+1532
+01:21:12,750 --> 01:21:13,708
+Is it this one?
+
+1533
+01:21:13,791 --> 01:21:15,250
+Yes, Liu Qianhua.
+
+1534
+01:21:15,333 --> 01:21:17,166
+- Thanks, Uncle Gao.
+- Thanks, Grandpa Gao.
+
+1535
+01:21:17,791 --> 01:21:20,416
+Mommy will have
+over 10,000 followers today.
+
+1536
+01:21:20,500 --> 01:21:21,541
+Thank you, everyone.
+
+1537
+01:21:22,458 --> 01:21:23,583
+Allow me to introduce.
+
+1538
+01:21:23,666 --> 01:21:24,791
+This is my husband.
+
+1539
+01:21:25,875 --> 01:21:27,375
+He just got into food delivery.
+
+1540
+01:21:27,958 --> 01:21:29,125
+Come, say hello to everyone.
+
+1541
+01:21:29,208 --> 01:21:30,416
+Hi, I'm the husband.
+
+1542
+01:21:30,500 --> 01:21:32,125
+I am a delivery man,
+
+1543
+01:21:32,208 --> 01:21:33,750
+but I'm also the husband.
+
+1544
+01:21:33,833 --> 01:21:34,958
+Bye, everyone.
+
+1545
+01:21:37,416 --> 01:21:38,875
+Push…
+
+1546
+01:21:39,541 --> 01:21:40,375
+You can do it.
+
+1547
+01:21:41,541 --> 01:21:42,375
+Okay.
+
+1548
+01:21:46,541 --> 01:21:47,916
+Foodie Delivery!
+
+1549
+01:21:48,000 --> 01:21:49,541
+Loved by all.
+
+1550
+01:21:57,958 --> 01:21:59,125
+What do you think?
+
+1551
+01:21:59,708 --> 01:22:00,833
+Enjoy your meal.
+
+1552
+01:22:02,333 --> 01:22:03,458
+I bought you new shoes.
+
+1553
+01:22:05,083 --> 01:22:05,916
+Gotta go now.
+
+1554
+01:22:12,083 --> 01:22:12,916
+Ew!
+
+1555
+01:22:18,958 --> 01:22:20,458
+Great…
+
+1556
+01:22:20,541 --> 01:22:22,583
+That's wonderful.
+
+1557
+01:22:26,666 --> 01:22:27,500
+Insulin shots.
+
+1558
+01:22:27,583 --> 01:22:28,583
+Your insulin shots.
+
+1559
+01:22:29,500 --> 01:22:31,208
+I don't seem to need these anymore.
+
+1560
+01:22:32,000 --> 01:22:32,833
+Gotta go.
+
+1561
+01:22:48,666 --> 01:22:50,083
+It's Big Black again.
+
+1562
+01:22:50,166 --> 01:22:51,583
+He's made 18,000 this month.
+
+1563
+01:22:51,666 --> 01:22:52,791
+So amazing.
+
+1564
+01:22:52,875 --> 01:22:54,250
+I have two pieces of good news.
+
+1565
+01:22:54,791 --> 01:22:57,208
+First, our station
+has overtaken the one nearby
+
+1566
+01:22:57,291 --> 01:22:59,166
+to become number one in this area.
+
+1567
+01:22:59,958 --> 01:23:01,166
+Yay…
+
+1568
+01:23:02,125 --> 01:23:05,375
+And, second, the Deflowerer,
+who's been dragging us down,
+
+1569
+01:23:05,458 --> 01:23:07,791
+has made 1,670 deliveries this month
+
+1570
+01:23:07,875 --> 01:23:09,333
+and earned 10,002.
+
+1571
+01:23:09,416 --> 01:23:11,583
+It looks like he knows
+what he's doing, after all.
+
+1572
+01:23:11,666 --> 01:23:12,708
+The Route Master is great.
+
+1573
+01:23:12,791 --> 01:23:14,041
+Let's show him some love, okay?
+
+1574
+01:23:14,125 --> 01:23:15,250
+Bravo!
+
+1575
+01:23:16,833 --> 01:23:17,666
+Big Black.
+
+1576
+01:23:18,666 --> 01:23:19,791
+You ride so fast.
+
+1577
+01:23:19,875 --> 01:23:22,250
+Now they assume
+everyone should be like you.
+
+1578
+01:23:22,333 --> 01:23:24,083
+They're comparing us with you.
+
+1579
+01:23:24,166 --> 01:23:25,083
+It's easy for you,
+
+1580
+01:23:25,166 --> 01:23:26,625
+But I've been fined every day.
+
+1581
+01:23:26,708 --> 01:23:29,250
+Serves you right.
+You don't know your routes.
+
+1582
+01:23:29,333 --> 01:23:30,750
+You should be fined,
+
+1583
+01:23:30,833 --> 01:23:32,375
+and can't take shortcuts.
+
+1584
+01:23:33,208 --> 01:23:34,083
+No, Big Black.
+
+1585
+01:23:34,958 --> 01:23:36,875
+At my age,
+
+1586
+01:23:36,958 --> 01:23:38,541
+I can't ride as fast.
+
+1587
+01:23:38,625 --> 01:23:41,541
+If we don't run red lights
+and violate some traffic rules,
+
+1588
+01:23:41,625 --> 01:23:42,958
+- it's hard to be on time.
+- Yeah.
+
+1589
+01:23:43,041 --> 01:23:45,375
+- Right?
+- We used to work for 12 hours a day.
+
+1590
+01:23:45,458 --> 01:23:46,875
+Now we have to work for 14 hours.
+
+1591
+01:23:46,958 --> 01:23:49,541
+If I own the company,
+I'll give you good orders every day.
+
+1592
+01:23:49,625 --> 01:23:51,833
+We are all riders here, aren't we?
+
+1593
+01:23:51,916 --> 01:23:53,458
+- Yes.
+- Shouldn't we help one another?
+
+1594
+01:23:53,541 --> 01:23:54,750
+Yes.
+
+1595
+01:23:54,833 --> 01:23:55,666
+Big Black,
+
+1596
+01:23:55,750 --> 01:23:58,250
+how can you be so selfish?
+
+1597
+01:23:59,958 --> 01:24:00,875
+What did you say?
+
+1598
+01:24:00,958 --> 01:24:02,166
+You're selfish.
+
+1599
+01:24:02,250 --> 01:24:03,208
+Who's selfish?
+
+1600
+01:24:03,916 --> 01:24:06,375
+You should spend more time
+memorizing the roads,
+
+1601
+01:24:06,458 --> 01:24:09,583
+the routes and where the shortcuts are.
+
+1602
+01:24:09,666 --> 01:24:11,958
+What's with all the whining?
+Zhang, even you?
+
+1603
+01:24:12,041 --> 01:24:13,583
+- No.
+- Worthless losers.
+
+1604
+01:24:13,666 --> 01:24:15,083
+Big Black, how could you say that?
+
+1605
+01:24:17,666 --> 01:24:18,500
+What do you want?
+
+1606
+01:24:18,583 --> 01:24:21,666
+Why don't you give us a peak
+of your little notebook?
+
+1607
+01:24:22,333 --> 01:24:24,666
+Yeah, let us see it.
+What secrets do you have?
+
+1608
+01:24:24,750 --> 01:24:26,083
+Come on, share with us.
+
+1609
+01:24:26,166 --> 01:24:28,250
+Are you documenting
+how many daddies you have?
+
+1610
+01:24:31,500 --> 01:24:33,333
+Watch your fucking mouth.
+
+1611
+01:24:33,416 --> 01:24:34,250
+So what?
+
+1612
+01:24:34,333 --> 01:24:35,375
+I know what he drew.
+
+1613
+01:24:35,458 --> 01:24:37,250
+It's his wife's tushy.
+
+1614
+01:24:51,291 --> 01:24:52,291
+Sun Yao.
+
+1615
+01:24:52,375 --> 01:24:54,083
+You think you're better? Do you?
+
+1616
+01:24:54,166 --> 01:24:55,291
+Who's better now?
+
+1617
+01:24:55,375 --> 01:24:56,666
+Stop fighting.
+
+1618
+01:24:56,750 --> 01:24:58,083
+Still think you're better?
+
+1619
+01:24:58,166 --> 01:24:59,083
+What is this?
+
+1620
+01:24:59,166 --> 01:25:00,458
+Are you out of your mind?
+
+1621
+01:25:03,750 --> 01:25:05,166
+Stingie.
+
+1622
+01:25:05,250 --> 01:25:07,708
+You're fine…
+
+1623
+01:25:07,791 --> 01:25:09,625
+- Is it my fault that I'm the fastest?
+- No.
+
+1624
+01:25:09,708 --> 01:25:12,250
+It's not your fault.
+
+1625
+01:25:13,208 --> 01:25:14,375
+Is it my fault, Mr. Zhu?
+
+1626
+01:25:18,041 --> 01:25:19,166
+You don't love money?
+
+1627
+01:25:20,083 --> 01:25:21,500
+You don't want to earn more?
+
+1628
+01:25:23,791 --> 01:25:26,916
+I just want to live
+a better life each day.
+
+1629
+01:25:30,333 --> 01:25:33,708
+I just want to turn my life around.
+
+1630
+01:25:41,833 --> 01:25:43,416
+Sir.
+
+1631
+01:25:46,541 --> 01:25:48,708
+I'm so tired.
+
+1632
+01:25:51,000 --> 01:25:52,583
+I need a break.
+
+1633
+01:25:58,250 --> 01:25:59,916
+Best of luck to you all.
+
+1634
+01:26:17,041 --> 01:26:19,041
+The system gives more orders
+to who can work more.
+
+1635
+01:26:19,125 --> 01:26:20,791
+Big Black rides fast.
+
+1636
+01:26:21,375 --> 01:26:22,500
+He's earned the privilege.
+
+1637
+01:26:22,583 --> 01:26:24,583
+Sir, we should get more orders too.
+
+1638
+01:26:24,666 --> 01:26:25,666
+Cut the bullshit.
+
+1639
+01:26:26,416 --> 01:26:27,791
+Let me tell you something.
+
+1640
+01:26:27,875 --> 01:26:30,250
+Rapideliver is introducing
+a tiered pay system.
+
+1641
+01:26:30,333 --> 01:26:32,541
+There's competition between platforms.
+
+1642
+01:26:32,625 --> 01:26:35,708
+There are many riders.
+Faster with lower pay is the trend.
+
+1643
+01:26:35,791 --> 01:26:38,291
+The cake is cut into more slices now.
+You see them?
+
+1644
+01:26:39,333 --> 01:26:41,500
+They're young people in their early 20s.
+
+1645
+01:26:42,083 --> 01:26:43,625
+If you want this job, do it.
+
+1646
+01:26:45,000 --> 01:26:46,250
+Otherwise just fuck off.
+
+1647
+01:27:18,625 --> 01:27:19,458
+Xiaomin.
+
+1648
+01:27:19,541 --> 01:27:20,416
+Gao.
+
+1649
+01:27:20,500 --> 01:27:21,916
+What are you doing here?
+
+1650
+01:27:23,125 --> 01:27:25,083
+I've been riding all day.
+
+1651
+01:27:25,166 --> 01:27:27,000
+I forgot to bring my raincoat.
+
+1652
+01:27:28,791 --> 01:27:30,125
+Whose kid is this?
+
+1653
+01:27:31,541 --> 01:27:32,541
+It's my son.
+
+1654
+01:27:38,041 --> 01:27:39,750
+- You have a kid?
+- Yeah.
+
+1655
+01:27:39,833 --> 01:27:42,000
+Normally I take him with me at night.
+
+1656
+01:27:42,083 --> 01:27:43,875
+But the rain caught me off guard.
+
+1657
+01:27:43,958 --> 01:27:45,333
+We can't go home.
+
+1658
+01:27:45,416 --> 01:27:46,333
+Take my raincoat.
+
+1659
+01:27:46,416 --> 01:27:47,458
+No…
+
+1660
+01:27:47,541 --> 01:27:50,125
+- No need.
+- Take him home before he catches a cold.
+
+1661
+01:27:50,208 --> 01:27:51,416
+What about you?
+
+1662
+01:27:51,500 --> 01:27:53,333
+You said we should
+help one another, right?
+
+1663
+01:27:53,875 --> 01:27:54,750
+Ride slowly.
+
+1664
+01:27:54,833 --> 01:27:56,750
+You should get back.
+
+1665
+01:27:57,666 --> 01:27:58,500
+Take care.
+
+1666
+01:27:58,583 --> 01:28:00,541
+- Get back.
+- Slow down.
+
+1667
+01:28:17,416 --> 01:28:19,875
+NO ORDER NOW
+
+1668
+01:28:34,666 --> 01:28:37,416
+The Deflowerer fell asleep by the road.
+
+1669
+01:28:39,458 --> 01:28:41,083
+Why were you sleeping here?
+
+1670
+01:28:41,166 --> 01:28:42,833
+You could catch a cold.
+
+1671
+01:28:44,791 --> 01:28:46,083
+Get up.
+
+1672
+01:28:46,166 --> 01:28:47,875
+What are you guys doing here?
+
+1673
+01:28:47,958 --> 01:28:49,458
+We're taking you somewhere.
+
+1674
+01:28:57,916 --> 01:28:59,666
+Guess who I am.
+
+1675
+01:28:59,750 --> 01:29:00,583
+Who?
+
+1676
+01:29:00,666 --> 01:29:02,208
+Guess who I am.
+
+1677
+01:29:04,166 --> 01:29:05,041
+Just a joke.
+
+1678
+01:29:05,125 --> 01:29:06,041
+I'm leaving.
+
+1679
+01:29:06,125 --> 01:29:07,375
+Where are you going?
+
+1680
+01:29:07,458 --> 01:29:09,541
+You're stingier than me.
+Drinking by yourself?
+
+1681
+01:29:09,625 --> 01:29:11,666
+- We're all here. Let's drink together.
+- Big Black.
+
+1682
+01:29:11,750 --> 01:29:13,416
+Sorry for what I said earlier.
+
+1683
+01:29:13,500 --> 01:29:15,791
+- Yeah…
+- Can you forgive me?
+
+1684
+01:29:15,875 --> 01:29:16,958
+It's all my fault.
+
+1685
+01:29:17,041 --> 01:29:19,541
+If you don't forgive me,
+I'll get down on my knees.
+
+1686
+01:29:20,208 --> 01:29:21,833
+Zhang.
+
+1687
+01:29:21,916 --> 01:29:22,791
+You…
+
+1688
+01:29:22,875 --> 01:29:24,333
+I'll kowtow to you.
+
+1689
+01:29:27,333 --> 01:29:28,416
+A toast
+
+1690
+01:29:28,500 --> 01:29:31,125
+to congratulate the Deflowerer
+for achieving Diamond Class.
+
+1691
+01:29:31,208 --> 01:29:33,250
+- Diamond Class.
+- Congratulations.
+
+1692
+01:29:34,250 --> 01:29:35,458
+Thank you, guys.
+
+1693
+01:29:35,541 --> 01:29:36,666
+Cheers…
+
+1694
+01:29:38,041 --> 01:29:40,250
+Big Black, did you really quit?
+
+1695
+01:29:40,333 --> 01:29:41,375
+Who said that?
+
+1696
+01:29:42,583 --> 01:29:44,125
+I'm taking a break for a month.
+
+1697
+01:29:45,291 --> 01:29:47,125
+Use the opportunity
+to become the champion.
+
+1698
+01:29:47,208 --> 01:29:49,416
+You won't stand a chance when I'm back.
+
+1699
+01:29:49,708 --> 01:29:50,541
+Kai.
+
+1700
+01:29:51,250 --> 01:29:53,583
+These are my friends from work.
+
+1701
+01:29:54,250 --> 01:29:55,208
+Bring us more food.
+
+1702
+01:29:55,291 --> 01:29:56,708
+Sure, right away.
+
+1703
+01:29:56,791 --> 01:29:57,791
+Thanks.
+
+1704
+01:30:02,208 --> 01:30:04,291
+What happened to his leg?
+
+1705
+01:30:04,916 --> 01:30:07,125
+We used to work
+at the same station together.
+
+1706
+01:30:08,041 --> 01:30:09,666
+One day,
+
+1707
+01:30:10,416 --> 01:30:11,541
+I passed on an order to him.
+
+1708
+01:30:12,750 --> 01:30:14,791
+He was just leaving to deliver it,
+
+1709
+01:30:15,666 --> 01:30:17,708
+a truck hit him and crushed his leg.
+
+1710
+01:30:17,791 --> 01:30:18,791
+Did they compensate him?
+
+1711
+01:30:18,875 --> 01:30:20,208
+He ran a red light.
+
+1712
+01:30:21,375 --> 01:30:22,625
+He was fully liable.
+
+1713
+01:30:23,750 --> 01:30:25,833
+He had to pay for the damaged cargo
+
+1714
+01:30:25,916 --> 01:30:27,500
+and the surgery too.
+
+1715
+01:30:28,625 --> 01:30:29,958
+Over 400,000 in total.
+
+1716
+01:30:31,083 --> 01:30:32,416
+That's when I learned
+
+1717
+01:30:33,500 --> 01:30:35,375
+he was saving up
+
+1718
+01:30:35,458 --> 01:30:36,666
+for college.
+
+1719
+01:30:37,208 --> 01:30:38,500
+That wrong turn
+
+1720
+01:30:38,583 --> 01:30:40,416
+cost him his future.
+
+1721
+01:30:42,458 --> 01:30:44,458
+No wonder you have to be the champion.
+
+1722
+01:30:44,541 --> 01:30:46,916
+No wonder you never take pass-on orders.
+
+1723
+01:30:47,500 --> 01:30:50,208
+After insurance paid out,
+it's only 200,000.
+
+1724
+01:30:50,291 --> 01:30:51,416
+I'm working hard…
+
+1725
+01:30:52,291 --> 01:30:53,708
+to help him pay if off.
+
+1726
+01:30:53,791 --> 01:30:55,166
+Just 40,000 to go.
+
+1727
+01:30:58,791 --> 01:30:59,791
+Gao…
+
+1728
+01:31:00,625 --> 01:31:02,750
+that hot patches you gave me are great.
+
+1729
+01:31:03,541 --> 01:31:04,375
+I'm wondering
+
+1730
+01:31:04,458 --> 01:31:06,583
+how's that app of yours coming along?
+
+1731
+01:31:06,666 --> 01:31:08,166
+I've been working on it.
+
+1732
+01:31:10,208 --> 01:31:12,208
+These are three years of notes.
+
+1733
+01:31:12,833 --> 01:31:14,000
+You can have them.
+
+1734
+01:31:16,958 --> 01:31:19,916
+I've marked out
+some of the impossible routes.
+
+1735
+01:31:20,000 --> 01:31:22,083
+I've collected the data myself.
+
+1736
+01:31:22,166 --> 01:31:24,125
+I hope it can help you develop the app.
+
+1737
+01:31:24,208 --> 01:31:26,291
+It might even benefit all riders.
+
+1738
+01:31:26,375 --> 01:31:27,625
+It definitely will.
+
+1739
+01:31:28,166 --> 01:31:30,416
+I've been too selfish.
+
+1740
+01:31:30,500 --> 01:31:31,416
+Big Black,
+
+1741
+01:31:31,500 --> 01:31:34,083
+we've never thought you are selfish.
+
+1742
+01:31:34,166 --> 01:31:35,208
+Not for a second.
+
+1743
+01:31:35,958 --> 01:31:37,458
+With these notes,
+
+1744
+01:31:38,291 --> 01:31:40,125
+my app certainly will succeed.
+
+1745
+01:31:41,333 --> 01:31:42,333
+Absolutely.
+
+1746
+01:31:43,125 --> 01:31:44,500
+You can make it happen.
+
+1747
+01:31:47,916 --> 01:31:49,750
+Thank you. A toast to you.
+
+1748
+01:32:02,791 --> 01:32:04,333
+Is the cake I ordered ready?
+
+1749
+01:32:04,416 --> 01:32:06,750
+Yes, be careful when carrying it.
+
+1750
+01:32:08,500 --> 01:32:10,458
+<i>Operation Smile, warm up the city.</i>
+
+1751
+01:32:10,541 --> 01:32:12,125
+{\an8}<i>Verification successful.</i>
+
+1752
+01:32:15,083 --> 01:32:16,208
+Hi, Xiao Ni.
+
+1753
+01:32:16,291 --> 01:32:18,458
+Three more orders and I'll reach 15,000.
+
+1754
+01:32:18,541 --> 01:32:19,916
+Are you ready to dance?
+
+1755
+01:32:51,000 --> 01:32:53,583
+<i>Dear Rider, you are running out of time.</i>
+
+1756
+01:32:53,666 --> 01:32:55,416
+<i>Please deliver the order ASAP.</i>
+
+1757
+01:33:13,541 --> 01:33:14,541
+5,829.
+
+1758
+01:33:15,041 --> 01:33:17,666
+It's loaded with cultural relics,
+you know?
+
+1759
+01:33:17,750 --> 01:33:19,791
+Ride more carefully in the future.
+
+1760
+01:33:19,875 --> 01:33:20,958
+I'm sorry.
+
+1761
+01:33:25,291 --> 01:33:28,791
+TRANSFER PAYOUT: 5,829
+ACCOUNT BALANCE: 9,152
+
+1762
+01:33:48,458 --> 01:33:49,291
+You're home.
+
+1763
+01:33:57,041 --> 01:33:57,875
+Are you mad?
+
+1764
+01:33:59,875 --> 01:34:00,958
+No.
+
+1765
+01:34:02,000 --> 01:34:04,583
+I've been working
+at the nail salon for a month.
+
+1766
+01:34:05,166 --> 01:34:07,750
+I was going to tell you
+when I get my first paycheck.
+
+1767
+01:34:08,666 --> 01:34:09,625
+I'm not mad.
+
+1768
+01:34:12,875 --> 01:34:14,708
+It must be tough for you.
+
+1769
+01:34:20,500 --> 01:34:22,333
+I just flunk an order.
+
+1770
+01:34:25,000 --> 01:34:27,791
+We won't be able
+to pay mortgage this month.
+
+1771
+01:34:31,000 --> 01:34:32,958
+I've failed to make 15,000 again.
+
+1772
+01:34:35,000 --> 01:34:36,250
+Honey, I'm sorry.
+
+1773
+01:34:38,458 --> 01:34:40,541
+I fear we might lose the house.
+
+1774
+01:34:52,708 --> 01:34:53,916
+You bought a cake?
+
+1775
+01:34:57,083 --> 01:34:58,875
+I thought I would give you a treat.
+
+1776
+01:35:01,041 --> 01:35:01,875
+Open it.
+
+1777
+01:35:19,291 --> 01:35:20,208
+Sorry.
+
+1778
+01:35:21,291 --> 01:35:22,666
+I screwed up.
+
+1779
+01:35:25,000 --> 01:35:26,291
+It's okay.
+
+1780
+01:35:28,541 --> 01:35:29,750
+I like Pikachu.
+
+1781
+01:35:31,250 --> 01:35:33,125
+When I was a child,
+
+1782
+01:35:33,208 --> 01:35:34,458
+my whole family…
+
+1783
+01:35:36,708 --> 01:35:40,000
+had to be crammed
+into this shabby little apartment.
+
+1784
+01:35:40,083 --> 01:35:41,166
+But I felt happy.
+
+1785
+01:35:45,250 --> 01:35:46,083
+Before this…
+
+1786
+01:35:48,333 --> 01:35:51,000
+I used to think
+our bottom line was the house.
+
+1787
+01:35:54,041 --> 01:35:55,333
+But now I know,
+
+1788
+01:35:56,875 --> 01:35:58,583
+it's in fact our family.
+
+1789
+01:36:11,041 --> 01:36:11,958
+Zhilei.
+
+1790
+01:36:16,541 --> 01:36:18,333
+You are actually a great husband.
+
+1791
+01:36:22,125 --> 01:36:23,583
+I just think…
+
+1792
+01:36:24,458 --> 01:36:26,875
+you deserve a nice cake.
+
+1793
+01:36:29,791 --> 01:36:30,875
+I'm sorry.
+
+1794
+01:36:54,458 --> 01:36:55,541
+Zhilei.
+
+1795
+01:36:56,958 --> 01:36:58,083
+- Zhilei.
+- Dad.
+
+1796
+01:36:58,583 --> 01:37:00,000
+What is it? The bathroom?
+
+1797
+01:37:02,500 --> 01:37:03,458
+What is this?
+
+1798
+01:37:03,541 --> 01:37:06,041
+Yesterday, your mom was tidying up things.
+
+1799
+01:37:06,125 --> 01:37:08,000
+Then she found this photo.
+
+1800
+01:37:09,291 --> 01:37:10,541
+It's me in 97,
+
+1801
+01:37:10,625 --> 01:37:12,875
+when I was working in Guangzhou.
+
+1802
+01:37:12,958 --> 01:37:16,333
+I spent three whole days
+in the underground tunnel.
+
+1803
+01:37:16,416 --> 01:37:17,958
+When I was young,
+
+1804
+01:37:18,041 --> 01:37:21,125
+I worked really hard too.
+
+1805
+01:37:21,208 --> 01:37:23,291
+Come to think of it now,
+
+1806
+01:37:23,375 --> 01:37:25,458
+delivering food is not so bad.
+
+1807
+01:37:27,166 --> 01:37:28,041
+Go.
+
+1808
+01:37:28,125 --> 01:37:29,166
+Ride away.
+
+1809
+01:37:34,916 --> 01:37:36,750
+<i>Cui, I know my mortgage is due today.</i>
+
+1810
+01:37:36,833 --> 01:37:39,041
+I came to show you this, my pay stubs.
+
+1811
+01:37:39,125 --> 01:37:41,458
+At first, I made only 4,000 a month.
+
+1812
+01:37:41,541 --> 01:37:43,708
+<i>It has since grown to 12,000 last month.</i>
+
+1813
+01:37:43,791 --> 01:37:46,208
+I actually had enough money,
+but I lost it due to an accident.
+
+1814
+01:37:46,291 --> 01:37:47,458
+What I'm trying to say is,
+
+1815
+01:37:47,541 --> 01:37:48,625
+<i>by the end of the month,</i>
+
+1816
+01:37:48,708 --> 01:37:50,375
+<i>I will definitely have 15,000.</i>
+
+1817
+01:37:50,458 --> 01:37:51,416
+<i>I'll be the champion.</i>
+
+1818
+01:37:51,500 --> 01:37:53,166
+<i>Please believe me. Give me five days.</i>
+
+1819
+01:37:53,250 --> 01:37:54,583
+I promise I'll pay the mortgage.
+
+1820
+01:37:54,666 --> 01:37:57,083
+What if you fail to be the champion?
+
+1821
+01:37:57,166 --> 01:37:58,000
+If I can't,
+
+1822
+01:37:59,000 --> 01:38:00,291
+I'll sell the house.
+
+1823
+01:38:14,916 --> 01:38:17,208
+{\an8}ROUTE MASTER
+
+1824
+01:38:24,250 --> 01:38:25,291
+Attention, everyone.
+
+1825
+01:38:25,375 --> 01:38:26,708
+Just got a notice from the HQ.
+
+1826
+01:38:26,791 --> 01:38:28,958
+Bonus for the champion rider this month
+
+1827
+01:38:29,041 --> 01:38:30,833
+<i>has been increased to 2,500.</i>
+
+1828
+01:38:30,916 --> 01:38:32,875
+The winner will attend
+the annual award ceremony.
+
+1829
+01:38:32,958 --> 01:38:34,833
+Here's the current ranking.
+
+1830
+01:38:34,916 --> 01:38:37,208
+<i>- Dashan is at the top with 2,002 orders.</i>
+- Yes.
+
+1831
+01:38:37,958 --> 01:38:39,166
+Let me through…
+
+1832
+01:38:40,166 --> 01:38:42,083
+Sun Yao is in second place
+with 1,999 orders.
+
+1833
+01:38:43,083 --> 01:38:44,916
+Gao Zhilei is in third place
+with 1,997 orders.
+
+1834
+01:38:45,958 --> 01:38:48,000
+<i>Stingie is also in third place.</i>
+
+1835
+01:38:48,083 --> 01:38:50,541
+<i>Qiu Xiaomin is in fifth place</i>
+<i>with 1,990 orders.</i>
+
+1836
+01:38:51,166 --> 01:38:53,291
+<i>It's rainy and slippery.</i>
+<i>Be safe out there.</i>
+
+1837
+01:38:53,375 --> 01:38:55,125
+<i>It's 7:58 p.m. now.</i>
+
+1838
+01:38:55,208 --> 01:38:58,666
+<i>We are 4 hours and 2 minutes away</i>
+<i>from the birth of a new champion.</i>
+
+1839
+01:38:58,750 --> 01:38:59,958
+Dashan, you can do this.
+
+1840
+01:39:00,041 --> 01:39:04,041
+Today, you will all witness me,
+Yang Dashan, become the champion.
+
+1841
+01:39:04,541 --> 01:39:06,125
+Go…
+
+1842
+01:39:06,208 --> 01:39:07,083
+Good luck.
+
+1843
+01:39:07,166 --> 01:39:09,166
+<i>Riders, bring your A game.</i>
+
+1844
+01:39:09,250 --> 01:39:10,416
+<i>Full throttle now!</i>
+
+1845
+01:39:10,500 --> 01:39:12,750
+<i>I'll see you at 12 midnight.</i>
+
+1846
+01:39:17,000 --> 01:39:19,750
+Hi, everyone. Pikachu the Drummer here.
+
+1847
+01:39:19,833 --> 01:39:21,833
+<i>New comers, don't forget to hit like</i>
+
+1848
+01:39:21,916 --> 01:39:24,250
+<i>and tap on the little red heart</i>
+<i>to follow me.</i>
+
+1849
+01:39:25,083 --> 01:39:27,291
+Number 262.
+
+1850
+01:39:27,958 --> 01:39:30,791
+<i>Ever since I told you</i>
+<i>my husband is a delivery guy,</i>
+
+1851
+01:39:30,875 --> 01:39:32,708
+<i>I've got so much support from you.</i>
+
+1852
+01:39:32,791 --> 01:39:34,916
+<i>Now I'm going to show you a solo.</i>
+
+1853
+01:39:35,000 --> 01:39:37,916
+<i>It's my first performance</i>
+<i>after seven years.</i>
+
+1854
+01:39:38,000 --> 01:39:39,458
+I hope you'd like it.
+
+1855
+01:40:04,416 --> 01:40:05,708
+Quick, Foodie 120.
+
+1856
+01:40:05,791 --> 01:40:07,416
+- Foodie 22.
+- Foodie 167.
+
+1857
+01:40:08,291 --> 01:40:10,458
+I will become the champion today.
+
+1858
+01:40:10,541 --> 01:40:11,833
+Go for it!
+
+1859
+01:40:11,916 --> 01:40:13,833
+Foodie Delivery 124.
+
+1860
+01:40:14,791 --> 01:40:15,625
+Takeaway 106.
+
+1861
+01:40:15,708 --> 01:40:17,875
+Is this Mr. Zhang? I'm on my way.
+
+1862
+01:40:17,958 --> 01:40:18,833
+Don't worry.
+
+1863
+01:40:19,333 --> 01:40:20,375
+{\an8}CHOU XIAOMIN: 2,008 ORDERS
+
+1864
+01:40:21,041 --> 01:40:22,125
+{\an8}WANG LEI: 1,895 ORDERS
+
+1865
+01:40:23,166 --> 01:40:24,250
+{\an8}Coming through.
+
+1866
+01:40:25,041 --> 01:40:26,166
+{\an8}GAO ZHILEI: 2,011 ORDERS
+
+1867
+01:40:26,750 --> 01:40:27,750
+STINGIE: 2,005 ORDERS
+
+1868
+01:40:27,833 --> 01:40:29,041
+- Number 5002.
+- Thanks.
+
+1869
+01:40:29,125 --> 01:40:31,208
+- Careful with this.
+- Okay, thanks.
+
+1870
+01:40:31,291 --> 01:40:33,208
+- Hi. Food delivery.
+- Thank you.
+
+1871
+01:40:33,291 --> 01:40:34,791
+- Did you order this?
+- Yes.
+
+1872
+01:40:34,875 --> 01:40:35,750
+All right.
+
+1873
+01:40:35,833 --> 01:40:37,125
+Please give me a good review.
+
+1874
+01:40:37,208 --> 01:40:38,166
+Here's is your tea.
+
+1875
+01:40:38,250 --> 01:40:39,583
+Foodie 101 is ready.
+
+1876
+01:40:39,666 --> 01:40:40,500
+Xiaomin, go!
+
+1877
+01:40:40,583 --> 01:40:42,125
+You can do this.
+
+1878
+01:40:42,208 --> 01:40:43,750
+- Thank you.
+- Enjoy it.
+
+1879
+01:40:44,916 --> 01:40:46,875
+- Hi, food delivery. Enjoy it.
+- Thanks.
+
+1880
+01:40:50,333 --> 01:40:52,416
+Ms. Zhang, will this take long?
+
+1881
+01:40:52,916 --> 01:40:54,375
+It might take a while.
+
+1882
+01:41:01,500 --> 01:41:02,375
+Hi, hello.
+
+1883
+01:41:02,458 --> 01:41:03,583
+Your place is far away
+
+1884
+01:41:03,666 --> 01:41:04,625
+and hard to find.
+
+1885
+01:41:04,708 --> 01:41:05,875
+Please wait patiently.
+
+1886
+01:41:05,958 --> 01:41:07,416
+I will deliver it on time.
+
+1887
+01:41:07,500 --> 01:41:08,333
+Here.
+
+1888
+01:41:08,958 --> 01:41:10,083
+- This is yours.
+- Thanks.
+
+1889
+01:41:10,166 --> 01:41:11,166
+Foodie 95.
+
+1890
+01:41:12,458 --> 01:41:14,625
+{\an8}ROUTE MASTER: A SHORTCUT AHEAD!
+
+1891
+01:41:41,541 --> 01:41:42,416
+Enjoy your meal.
+
+1892
+01:41:42,500 --> 01:41:43,333
+65.
+
+1893
+01:41:43,708 --> 01:41:44,541
+Thanks.
+
+1894
+01:41:45,541 --> 01:41:46,708
+Please give me a good review.
+
+1895
+01:41:46,791 --> 01:41:48,041
+{\an8}<i>I'm a deaf rider.</i>
+
+1896
+01:41:48,125 --> 01:41:49,166
+<i>Enjoy your meal.</i>
+
+1897
+01:41:49,250 --> 01:41:50,833
+Zhang and the mute aren't giving up.
+
+1898
+01:41:51,708 --> 01:41:53,166
+Enjoy your meal.
+
+1899
+01:41:53,250 --> 01:41:54,958
+Hi, food delivery.
+
+1900
+01:41:55,041 --> 01:41:56,083
+This isn't mine.
+
+1901
+01:41:56,166 --> 01:41:57,708
+Oh, my! I'll refund you 26.9.
+
+1902
+01:41:57,791 --> 01:41:58,916
+It's not about money.
+
+1903
+01:41:59,000 --> 01:42:00,666
+Like, I need that 26.9.
+
+1904
+01:42:00,750 --> 01:42:02,083
+I've refunded you, okay?
+
+1905
+01:42:03,041 --> 01:42:04,791
+Look, Gao Zhilei is catching up.
+
+1906
+01:42:04,875 --> 01:42:06,291
+My money is on Yang Dashan.
+
+1907
+01:42:06,375 --> 01:42:07,541
+Another 5 orders done.
+
+1908
+01:42:07,625 --> 01:42:08,750
+I can see the victory.
+
+1909
+01:42:08,833 --> 01:42:10,458
+Number 18.
+
+1910
+01:42:11,375 --> 01:42:12,458
+Number 72.
+
+1911
+01:42:16,458 --> 01:42:17,416
+Hi, boss!
+
+1912
+01:42:17,500 --> 01:42:18,875
+Foodie 121.
+
+1913
+01:42:19,375 --> 01:42:20,833
+- Thanks.
+- You're welcome.
+
+1914
+01:42:22,916 --> 01:42:24,000
+Sanyuan, speak.
+
+1915
+01:42:24,083 --> 01:42:27,083
+<i>- Honey, Yangyang is ready for surgery.</i>
+- They have a vacancy?
+
+1916
+01:42:27,166 --> 01:42:28,083
+<i>Yes.</i>
+
+1917
+01:42:28,166 --> 01:42:29,041
+When's the surgery?
+
+1918
+01:42:29,125 --> 01:42:30,541
+<i>Doctor says now. Come immediately.</i>
+
+1919
+01:42:30,625 --> 01:42:31,458
+Coming.
+
+1920
+01:42:31,541 --> 01:42:32,833
+STINGIE IS OFFLINE
+
+1921
+01:42:33,458 --> 01:42:34,541
+What's the update?
+
+1922
+01:42:34,625 --> 01:42:37,625
+<i>Sun Yao and Qiu Xiaomin are falling behind</i>
+<i>and Stingie is offline.</i>
+
+1923
+01:42:37,708 --> 01:42:38,708
+<i>The champion title</i>
+
+1924
+01:42:38,791 --> 01:42:41,041
+<i>will go to either Gao Zhilei</i>
+<i>or Yang Dashan.</i>
+
+1925
+01:42:42,500 --> 01:42:43,875
+Gao Zhilei is good.
+
+1926
+01:42:50,291 --> 01:42:53,041
+- The doctor says he knows magic.
+- You're doing well.
+
+1927
+01:42:53,125 --> 01:42:55,166
+You'll be as good as new when you awake.
+
+1928
+01:42:55,250 --> 01:42:57,083
+- We'll wait here.
+- No family.
+
+1929
+01:42:57,166 --> 01:42:58,208
+Please, Doc.
+
+1930
+01:42:58,291 --> 01:42:59,916
+- Don't be afraid!
+- You'll be fine.
+
+1931
+01:43:05,833 --> 01:43:08,000
+The last order before 12 midnight.
+
+1932
+01:43:11,250 --> 01:43:12,125
+Guys.
+
+1933
+01:43:12,791 --> 01:43:14,458
+Tap on that little red heart.
+
+1934
+01:43:16,041 --> 01:43:17,083
+Eighteenth floor?
+
+1935
+01:43:18,208 --> 01:43:19,083
+Damn it.
+
+1936
+01:43:19,666 --> 01:43:21,291
+Here I go! I'm all in.
+
+1937
+01:43:23,583 --> 01:43:24,625
+<i>Zhilei.</i>
+
+1938
+01:43:24,708 --> 01:43:26,958
+<i>You're tied with Dashan now.</i>
+
+1939
+01:43:27,041 --> 01:43:29,125
+Whoever can deliver the order in hand
+
+1940
+01:43:29,208 --> 01:43:31,958
+{\an8}by 12 midnight
+will become this month's champion.
+
+1941
+01:43:32,041 --> 01:43:32,875
+Good luck!
+
+1942
+01:43:32,958 --> 01:43:34,625
+<i>Gao, go for it.</i>
+
+1943
+01:43:35,125 --> 01:43:35,958
+Okay.
+
+1944
+01:44:21,541 --> 01:44:22,541
+Are you okay?
+
+1945
+01:44:24,708 --> 01:44:26,583
+How could you come out from this side?
+
+1946
+01:44:28,458 --> 01:44:30,333
+You're injured.
+I'm taking you to the hospital.
+
+1947
+01:44:30,416 --> 01:44:32,166
+No…
+
+1948
+01:44:32,250 --> 01:44:34,458
+I don't have time.
+
+1949
+01:44:36,208 --> 01:44:37,333
+I'm calling the police.
+
+1950
+01:44:37,916 --> 01:44:39,208
+I have insurance.
+
+1951
+01:44:41,208 --> 01:44:42,166
+Your leg's injured.
+
+1952
+01:44:42,250 --> 01:44:43,333
+Let's go to the hospital.
+
+1953
+01:44:43,416 --> 01:44:44,708
+I'm running late.
+
+1954
+01:44:45,500 --> 01:44:46,416
+I don't have time.
+
+1955
+01:44:46,500 --> 01:44:48,041
+Let's go to the hospital.
+
+1956
+01:44:48,791 --> 01:44:50,416
+I must become the champion.
+
+1957
+01:44:59,125 --> 01:45:00,500
+Lu Meili.
+
+1958
+01:45:00,583 --> 01:45:02,250
+I'm coming to marry you.
+
+1959
+01:45:02,333 --> 01:45:04,500
+Guys, I've finally got to the 18th floor.
+
+1960
+01:45:06,125 --> 01:45:06,958
+The champion…
+
+1961
+01:45:07,541 --> 01:45:08,833
+is definitely me.
+
+1962
+01:45:14,875 --> 01:45:16,625
+Why are all the doors locked?
+
+1963
+01:45:56,625 --> 01:45:57,541
+Where are you?
+
+1964
+01:46:00,333 --> 01:46:01,708
+Can you speak louder?
+
+1965
+01:46:06,000 --> 01:46:07,083
+What number?
+
+1966
+01:46:09,958 --> 01:46:10,916
+What number?
+
+1967
+01:46:19,833 --> 01:46:21,708
+Did you order this?
+
+1968
+01:46:22,708 --> 01:46:23,958
+Did you order this?
+
+1969
+01:46:24,041 --> 01:46:25,500
+Did you order this?
+
+1970
+01:46:46,250 --> 01:46:48,083
+<i>Where is my food?</i>
+
+1971
+01:46:48,166 --> 01:46:49,666
+Where are you?
+
+1972
+01:46:49,750 --> 01:46:51,666
+<i>Why are you still not here?</i>
+
+1973
+01:46:51,750 --> 01:46:53,291
+Can you raise your hands?
+
+1974
+01:46:54,541 --> 01:46:56,375
+Can you put your hands up?
+
+1975
+01:46:56,458 --> 01:46:59,208
+Put your hands up!
+
+1976
+01:47:11,708 --> 01:47:13,208
+Hello, everyone!
+
+1977
+01:47:14,583 --> 01:47:17,000
+Let's embrace tomorrow.
+
+1978
+01:47:18,000 --> 01:47:18,875
+Ten.
+
+1979
+01:47:18,958 --> 01:47:20,375
+I'm right in front of you.
+
+1980
+01:47:20,458 --> 01:47:21,750
+Nine.
+
+1981
+01:47:21,833 --> 01:47:24,250
+Delivery guy!
+
+1982
+01:47:27,000 --> 01:47:28,583
+Come over here.
+
+1983
+01:47:28,666 --> 01:47:30,083
+Eight.
+
+1984
+01:47:32,583 --> 01:47:33,875
+Seven.
+
+1985
+01:47:35,916 --> 01:47:37,250
+Six.
+
+1986
+01:47:38,375 --> 01:47:39,666
+Five.
+
+1987
+01:47:41,583 --> 01:47:43,125
+Four.
+
+1988
+01:47:45,791 --> 01:47:47,041
+Three.
+
+1989
+01:47:51,416 --> 01:47:52,750
+Two.
+
+1990
+01:47:59,291 --> 01:48:01,625
+One.
+
+1991
+01:48:03,000 --> 01:48:04,791
+Let's make some noise.
+
+1992
+01:48:04,875 --> 01:48:05,750
+CHAMPION, GAO ZHILEI
+
+1993
+01:48:17,500 --> 01:48:19,416
+Xiao Ni.
+
+1994
+01:48:20,458 --> 01:48:24,250
+I'm the champion.
+
+1995
+01:48:25,875 --> 01:48:28,416
+We can keep the house now.
+
+1996
+01:49:10,083 --> 01:49:11,125
+Where are you from?
+
+1997
+01:49:13,125 --> 01:49:14,750
+Sir…
+
+1998
+01:49:14,833 --> 01:49:16,458
+Sir, over here.
+
+1999
+01:49:16,541 --> 01:49:17,500
+The camera.
+
+2000
+01:49:17,583 --> 01:49:19,125
+We're recording a video.
+
+2001
+01:49:21,833 --> 01:49:22,833
+Sir.
+
+2002
+01:49:23,375 --> 01:49:25,791
+Let's congratulate the winners again.
+
+2003
+01:49:29,458 --> 01:49:31,291
+Please step off the stage now.
+
+2004
+01:49:32,250 --> 01:49:33,458
+Please stay.
+
+2005
+01:49:34,041 --> 01:49:35,625
+Allow me to introduce.
+
+2006
+01:49:35,708 --> 01:49:40,125
+This person here is this year's
+oldest winner of the new rider award.
+
+2007
+01:49:40,208 --> 01:49:41,833
+Mr. Gao Zhilei.
+
+2008
+01:49:43,500 --> 01:49:45,500
+Let's give him a warm applause.
+
+2009
+01:49:46,166 --> 01:49:47,375
+Please give us a speech.
+
+2010
+01:49:48,541 --> 01:49:51,083
+Please tell us how you feel.
+
+2011
+01:49:51,166 --> 01:49:52,458
+Yeah, how you feel.
+
+2012
+01:49:55,791 --> 01:49:58,375
+I thought delivering food
+would be easy enough.
+
+2013
+01:49:59,125 --> 01:50:01,083
+I didn't expect it to be so tough.
+
+2014
+01:50:02,666 --> 01:50:04,583
+Still, I'm grateful to this job.
+
+2015
+01:50:05,083 --> 01:50:06,916
+When I hit rock bottom,
+
+2016
+01:50:07,708 --> 01:50:09,166
+it helped me crawl.
+
+2017
+01:50:09,250 --> 01:50:10,666
+I mean, stand on my feet.
+
+2018
+01:50:10,750 --> 01:50:13,541
+Yes…
+
+2019
+01:50:25,958 --> 01:50:29,041
+This is a fellow rider at my station,
+
+2020
+01:50:29,125 --> 01:50:30,291
+Stingie.
+
+2021
+01:50:30,375 --> 01:50:34,500
+Her daughter just went through
+a successful leukemia surgery.
+
+2022
+01:50:34,583 --> 01:50:37,083
+Yay…
+
+2023
+01:50:43,333 --> 01:50:44,166
+Yes!
+
+2024
+01:50:48,541 --> 01:50:49,541
+It's true.
+
+2025
+01:50:50,208 --> 01:50:52,041
+We all work very hard.
+
+2026
+01:50:54,458 --> 01:50:57,000
+Everyone I've seen and met…
+
+2027
+01:50:57,666 --> 01:50:59,000
+works really hard.
+
+2028
+01:51:00,500 --> 01:51:04,500
+We are all working hard
+to build a better life,
+
+2029
+01:51:05,541 --> 01:51:07,291
+fighting for our family
+
+2030
+01:51:08,291 --> 01:51:10,458
+and running for a better tomorrow.
+
+2031
+01:51:15,500 --> 01:51:17,750
+We've all tried our best.
+
+2032
+01:51:19,791 --> 01:51:22,375
+And for that, we deserve respect
+
+2033
+01:51:23,416 --> 01:51:25,666
+and we deserve a better life.
+
+2034
+01:51:26,250 --> 01:51:27,083
+Right?
+
+2035
+01:51:27,166 --> 01:51:28,000
+Yes.
+
+2036
+01:51:28,083 --> 01:51:29,708
+- Right?
+- Yes.
+
+2037
+01:51:31,458 --> 01:51:33,541
+Bravo.
+
+2038
+01:51:41,041 --> 01:51:43,125
+And the most important thing of all…
+
+2039
+01:51:46,125 --> 01:51:48,083
+you must remember to be safe on the road.
+
+2040
+01:51:48,166 --> 01:51:49,541
+Don't end up like me.
+
+2041
+01:52:06,250 --> 01:52:08,375
+Come, put the drums here.
+
+2042
+01:52:08,458 --> 01:52:09,833
+Hi, Rapideliver.
+
+2043
+01:52:12,875 --> 01:52:13,958
+Hi, guys.
+
+2044
+01:52:14,041 --> 01:52:15,333
+Let's take a break.
+
+2045
+01:52:15,416 --> 01:52:17,125
+- Eat something first.
+- Thank you.
+
+2046
+01:52:17,208 --> 01:52:18,333
+Let's eat first.
+
+2047
+01:52:18,416 --> 01:52:20,083
+All right, thank you.
+
+2048
+01:52:20,166 --> 01:52:21,541
+You go ahead and eat.
+
+2049
+01:52:21,625 --> 01:52:23,708
+Sorry, I'm new
+and don't know the area well.
+
+2050
+01:52:23,791 --> 01:52:25,166
+Please don't give me a bad review.
+
+2051
+01:52:25,250 --> 01:52:26,416
+There you go.
+
+2052
+01:52:27,000 --> 01:52:28,875
+I was late and you still gave me a tip?
+
+2053
+01:52:30,625 --> 01:52:31,791
+I'm also a rider.
+
+2054
+01:52:31,875 --> 01:52:33,125
+- Thanks.
+- Thanks.
+
+2055
+01:52:34,500 --> 01:52:36,416
+After moving to a smaller place,
+
+2056
+01:52:36,500 --> 01:52:37,708
+we have less stress.
+
+2057
+01:52:37,791 --> 01:52:39,875
+I'm not sure if you like it here.
+
+2058
+01:52:39,958 --> 01:52:41,000
+It's pretty nice.
+
+2059
+01:52:41,083 --> 01:52:43,666
+It's smaller,
+so the rooms are closer.
+
+2060
+01:52:43,750 --> 01:52:44,708
+It's convenient.
+
+2061
+01:52:44,791 --> 01:52:46,875
+What matters is
+that you won't be so exhausted now.
+
+2062
+01:52:46,958 --> 01:52:48,291
+You can't always be the champion.
+
+2063
+01:52:48,375 --> 01:52:51,416
+Daddy will be the champion
+and then the station manager.
+
+2064
+01:52:51,500 --> 01:52:52,791
+You're flattering me.
+
+2065
+01:52:52,875 --> 01:52:55,000
+You will be in charge
+of your dad's future.
+
+2066
+01:52:55,083 --> 01:52:56,000
+No problem.
+
+2067
+01:52:56,875 --> 01:53:00,541
+I ran into Xie from the shipyard.
+
+2068
+01:53:00,625 --> 01:53:02,625
+He lives in the next building.
+
+2069
+01:53:02,708 --> 01:53:03,541
+Really?
+
+2070
+01:53:05,541 --> 01:53:07,166
+I myself like it here.
+
+2071
+01:53:07,916 --> 01:53:09,708
+It reminds me of my childhood.
+
+2072
+01:53:11,250 --> 01:53:12,625
+It will be crowded in there.
+
+2073
+01:53:12,708 --> 01:53:13,750
+Nonsense.
+
+2074
+01:53:13,833 --> 01:53:14,916
+This is great.
+
+2075
+01:53:15,000 --> 01:53:15,833
+It's true.
+
+2076
+01:53:15,916 --> 01:53:16,791
+I love it.
+
+2077
+01:53:18,166 --> 01:53:19,000
+Gao Zhilei.
+
+2078
+01:53:19,625 --> 01:53:21,875
+How long have you gone
+without an insulin shot?
+
+2079
+01:53:22,583 --> 01:53:23,666
+It's April,
+
+2080
+01:53:23,750 --> 01:53:24,791
+so five months.
+
+2081
+01:53:27,166 --> 01:53:28,750
+I can tell you're different now.
+
+2082
+01:53:29,833 --> 01:53:31,750
+I feel you can do anything.
+
+2083
+01:53:34,083 --> 01:53:36,041
+You're good at flattering your husband.
+
+2084
+01:53:37,125 --> 01:53:38,583
+You flatter your own husband.
+
+2085
+01:54:16,541 --> 01:54:17,416
+<i>Mr. Wei.</i>
+
+2086
+01:54:17,500 --> 01:54:18,750
+<i>We found this app.</i>
+
+2087
+01:54:18,833 --> 01:54:21,500
+<i>It was developed by one of our riders.</i>
+
+2088
+01:54:21,583 --> 01:54:23,625
+The interface is neat and simple.
+
+2089
+01:54:23,708 --> 01:54:26,750
+It's got amazing feedback
+from riders who have used it.
+
+2090
+01:54:26,833 --> 01:54:30,250
+Should we offer him a job
+at our computation center?
+
+2091
+01:55:12,375 --> 01:55:13,708
+This is Lu Meili.
+
+2092
+01:55:13,791 --> 01:55:14,916
+Hi, everyone.
+
+2093
+01:55:15,500 --> 01:55:17,416
+She's my girlfriend. What do you mean?
+
+2094
+01:55:17,500 --> 01:55:19,458
+I can't have a pretty girlfriend?
+
+2095
+01:55:25,166 --> 01:55:26,291
+Fly away.
+
+2096
+01:55:28,666 --> 01:55:29,875
+Slow down, Wangzi.
+
+2097
+01:55:37,875 --> 01:55:41,083
+I will not allow anyone
+to starve to death on my watch.
+
+2098
+01:55:41,166 --> 01:55:42,958
+The food will be there soon.
+
+2099
+01:56:05,958 --> 01:56:07,666
+I've got you.
+
+2100
+01:56:07,750 --> 01:56:08,750
+Don't be scared.
+
+2101
+01:56:08,833 --> 01:56:10,000
+- Here.
+- Thank you.
+
+2102
+01:56:59,166 --> 01:57:00,041
+Flowers.
+
+
+
